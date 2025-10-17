@@ -1,0 +1,935 @@
+\begin{thebibliography}{154}
+\providecommand{\biband}{和}
+\providecommand{\bibetal}{等}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{#1}
+\expandafter\ifx\csname urlstyle\endcsname\relax\else
+  \urlstyle{same}\fi
+\expandafter\ifx\csname href\endcsname\relax
+  \DeclareUrlCommand\doi{\urlstyle{rm}}
+  \def\eprint#1#2{#2}
+\else
+  \def\doi#1{\href{https://doi.org/#1}{\nolinkurl{#1}}}
+  \let\eprint\href
+\fi
+
+\bibitem[Reynolds(1987)]{Flocks1987}
+Reynolds~C~W.
+\newblock Flocks, herds and schools : a distributed behavior model: volume~25
+  [C].
+\newblock Proceedings of the 14th annual conference on Computer graphics and
+  interactive techniques, 1987: 25-34.
+
+\bibitem[Chung {\bibetal}(2018)Chung, Paranjape, Dames, Shen, and
+  Kumar]{Chung2018}
+Chung~S~J, Paranjape~A~A, Dames~P, et~al.
+\newblock A survey on aerial swarm robotics [J].
+\newblock IEEE Transactions on Robotics, 2018, 34\penalty0 (4): 837-855.
+
+\bibitem[Hamann(2018)]{Hamann2018}
+Hamann~H.
+\newblock Swarm robotics: A formal approach [M].
+\newblock 2018.
+
+\bibitem[Brown {\bibetal}(2014{\natexlab{a}})Brown and Goodrich]{Brown2014}
+Brown~D~S, Goodrich~M~A.
+\newblock Limited bandwidth recognition of collective behaviors in bio-inspired
+  swarms [J].
+\newblock International Foundation for Autonomous Agents and Multiagent
+  Systems, 2014.
+
+\bibitem[Brown {\bibetal}(2016)]{Brown2016DiscoveryAE}
+Brown~D~S, Turner~R, Hennigh~O, et~al.
+\newblock Discovery and exploration of novel swarm behaviors given limited
+  robot capabilities [C].
+\newblock Distributed Autonomous Robotic Systems: The 13th International
+  Symposium, 2016: 447-460.
+
+\bibitem[Berger {\bibetal}(2016)]{Berger2016}
+Berger~M, Seversky~L~M, Brown~D~S.
+\newblock Classifying swarm behavior via compressive subspace learning [C].
+\newblock 2016 IEEE International Conference on Robotics and Automation (ICRA),
+  2016: 5328-5335.
+
+\bibitem[Olaronke {\bibetal}(2020)Olaronke, Rhoda, Gambo, Oluwaseun, and
+  Janet]{Olaronke2020}
+Olaronke~I, Rhoda~I, Gambo~I, et~al.
+\newblock A systematic review of swarm robots [J].
+\newblock Current Journal of Applied Science and Technology, 2020.
+
+\bibitem[Schranz {\bibetal}(2020)Schranz, Umlauft, Sende, and
+  Elmenreich]{Schranz2020}
+Schranz~M, Umlauft~M, Sende~M, et~al.
+\newblock Swarm robotic behaviors and current applications [J].
+\newblock Frontiers in Robotics and AI, 2020, 7: 36.
+
+\bibitem[Lymburn {\bibetal}(2021)Lymburn, Algar, Small, and
+  J{\"u}ngling]{Thomas2021}
+Lymburn~T, Algar~S~D, Small~M, et~al.
+\newblock Reservoir computing with swarms [J].
+\newblock Chaos: An Interdisciplinary Journal of Nonlinear Science, 2021,
+  31\penalty0 (3): 033121.
+
+\bibitem[Becker {\bibetal}(2014)]{Becker2014}
+Becker~A, Ertel~C, McLurkin~J.
+\newblock Crowdsourcing swarm manipulation experiments: A massive online user
+  study with large swarms of simple robots [C].
+\newblock 2014 IEEE International Conference on Robotics and Automation (ICRA),
+  2014: 2825-2830.
+
+\bibitem[Khan {\bibetal}(2020)Khan, Kasmarik, and Barlow]{Khan2020}
+Khan~M~M, Kasmarik~K, Barlow~M.
+\newblock Autonomous detection of collective behaviours in swarms [J].
+\newblock Swarm and Evolutionary Computation, 2020, 57: 100715.
+
+\bibitem[Hahn {\bibetal}(2019)Hahn, Phan, Gabor, Belzner, and
+  Linnhoff-Popien]{Hahn2019}
+Hahn~C, Phan~T, Gabor~T, et~al.
+\newblock Emergent escape-based flocking behavior using multi-agent
+  reinforcement learning [J].
+\newblock arXiv:1905.04077, 2019.
+
+\bibitem[Lan {\bibetal}(2020)Lan, Liu, and Zhao]{Lan2020}
+Lan~X, Liu~Y, Zhao~Z.
+\newblock Cooperative control for swarming systems based on reinforcement
+  learning in unknown dynamic environment [J].
+\newblock Neurocomputing, 2020, 410: 410-418.
+
+\bibitem[Nouretdinov {\bibetal}(2015)Nouretdinov, Devetyarov, Vovk, Burford,
+  Camuzeaux, Gentry-Maharaj, Tiss, Smith, Luo, Chervonenkis,
+  et~al.]{Nouretdinov2013}
+Nouretdinov~I, Devetyarov~D, Vovk~V, et~al.
+\newblock Multiprobabilistic prediction in early medical diagnoses [J].
+\newblock Annals of Mathematics and Artificial Intelligence, 2015, 74: 203-222.
+
+\bibitem[Balasubramanian {\bibetal}(2014)Balasubramanian, Ho, and
+  Vovk]{Vineeth2014}
+Balasubramanian~V, Ho~S~S, Vovk~V.
+\newblock Conformal prediction for reliable machine learning [M].
+\newblock 2014.
+
+\bibitem[Vazquez {\bibetal}(2022)Vazquez and Facelli]{Janette2022}
+Vazquez~J, Facelli~J~C.
+\newblock Conformal prediction in clinical medical sciences [J].
+\newblock Journal of Healthcare Informatics Research, 2022, 6\penalty0 (3):
+  241-252.
+
+\bibitem[Valiant(1984)]{Valiant1984}
+Valiant~L~G.
+\newblock A theory of the learnable [J].
+\newblock Communications of the ACM, 1984, 27\penalty0 (11): 1134-1142.
+
+\bibitem[Vapnik(2006)]{Vapnik2006}
+Vapnik~V.
+\newblock {Estimation of Dependences Based on Empirical Data} [M].
+\newblock Springer New York, 2006.
+
+\bibitem[Vovk {\bibetal}(2005)Vovk, Gammerman, and Shafer]{vovk2005algorithmic}
+Vovk~V, Gammerman~A, Shafer~G.
+\newblock {Algorithmic Learning in a Random World} [M].
+\newblock Springer Science {\&} Business Media, 2005.
+
+\bibitem[Papadopoulos(2008)]{Papadopoulos2008}
+Papadopoulos~H.
+\newblock Inductive conformal prediction: Theory and application to neural
+  networks [J].
+\newblock Tools in artificial intelligence, 2008.
+
+\bibitem[Gammerman {\bibetal}(2007)Gammerman and Vovk]{2006Hedging}
+Gammerman~A, Vovk~V.
+\newblock Hedging predictions in machine learning [J].
+\newblock The Computer Journal, 2007, 50\penalty0 (2): 151-163.
+
+\bibitem[Vovk {\bibetal}(2003{\natexlab{a}})]{Vovk2003}
+Vovk~V, Nouretdinov~I, Gammerman~A.
+\newblock Testing exchangeability on-line [C].
+\newblock Proceedings of the 20th International Conference on Machine Learning
+  (ICML-03), 2003{\natexlab{a}}: 768-775.
+
+\bibitem[Fedorova {\bibetal}(2012)]{Vovk2012}
+Fedorova~V, Gammerman~A, Nouretdinov~I, et~al.
+\newblock Plug-in martingales for testing exchangeability on-line [C].
+\newblock Proceedings of the 29th International Conference on Machine Learning,
+  2012.
+
+\bibitem[Vapnik {\bibetal}(2009)Vapnik and Vashist]{Vapnik2009}
+Vapnik~V, Vashist~A.
+\newblock A new learning paradigm: Learning using privileged information [J].
+\newblock Neural Networks, 2009, 22\penalty0 (5-6): 544-557.
+
+\bibitem[Vapnik {\bibetal}(1974)Vapnik and Chernovenkis]{vapnik1974}
+Vapnik~V~N, Chernovenkis~A~Y.
+\newblock Teoriya raspoznavaniya obrazov ({T}heory of {P}attern {R}ecognition)
+  [M].
+\newblock Moscow: Nauka, 1974.
+
+\bibitem[Vapnik(1979)]{vapnik1979}
+Vapnik~V.
+\newblock {Estimation of Dependences Based on Empirical Data ({in Russian})}
+  [M].
+\newblock Moscow: Nauka, 1979.
+
+\bibitem[Vapnik(1982)]{vapnik1982}
+Vapnik~V.
+\newblock {Estimation of Dependences Based on Empirical Data} [M].
+\newblock New York: Springer-Verlag, 1982.
+
+\bibitem[Vapnik(1984)]{vapnik1984}
+Vapnik~V.
+\newblock {Алгоритмы и программы
+  восстановления зависимостей(Algorithms and Programs
+  for Recovering Dependencies)} [M].
+\newblock Moscow, 1984.
+
+\bibitem[Vapnik(1995)]{vapnik1995}
+Vapnik~V.
+\newblock {The Nature of Statistical Learning Theory} [M].
+\newblock New York: Springer-Verlag, 1995.
+
+\bibitem[Vapnik(1998)]{vapnik1998}
+Vapnik~V.
+\newblock {Statistical Learning Theory} [M].
+\newblock Wiley-Interscience, 1998.
+
+\bibitem[Chervonenkis(2013{\natexlab{a}})]{Chervonenkis2013}
+Chervonenkis~A.
+\newblock {Computer Data Analysis (in Russian)} [M].
+\newblock Yandex, Moscow, 2013{\natexlab{a}}.
+
+\bibitem[Vapnik(2019)]{Vapnik2019}
+Vapnik~V~N.
+\newblock Complete statistical theory of learning [J].
+\newblock Automation and Remote Control, 2019, 80: 1949-1975.
+
+\bibitem[Vapnik(2021{\natexlab{a}})]{Vapnik-context-2021}
+Vapnik~V.
+\newblock {About the Autonomy Capability Team (ACT3)// Context: "……the
+  Vapnik issue is, without context, the future of machine learning will reach
+  an impasse…"} [J/OL].
+\newblock 2021.
+\newblock \url{https://www.afrl.af.mil/ACT3/}.
+
+\bibitem[Vapnik(2018)]{Vapnik-deep-2018}
+Vapnik~V.
+\newblock {AFIT Distinguished Speaker Series Focuses on New Learning Paradigm//
+  Context: "... LUSI describe a complete theory of learning and can be
+  considered as a mathematical alternative to 'deep learning'. ..."} [J/OL].
+\newblock 2018.
+\newblock \url{https://www.afit.edu/en/news.cfm?article=0A6742}.
+
+\bibitem[Vapnik {\bibetal}(2018)Vapnik and Izmailov]{Vapnik-rethinking-2018}
+Vapnik~V, Izmailov~R.
+\newblock {Rethinking statistical learning theory: learning using statistical
+  invariants} [J].
+\newblock Machine Learning, 2018, 108\penalty0 (3): 381-423.
+
+\bibitem[Vapnik(2021{\natexlab{b}})]{vapnik2021-priviate-communication}
+Vapnik~V.
+\newblock private communication [J].
+\newblock 2021.
+
+\bibitem[Vapnik(2015)]{vapniktalk2015}
+Vapnik~V.
+\newblock Brute force and intelligent methods of learning [J/OL].
+\newblock Invited Talk, 2015.
+\newblock \url{http://stat.rutgers.edu/home/hcrane/seminar/vapnik.html}.
+
+\bibitem[Poggi {\bibetal}(2017)]{Poggi2017}
+Poggi~M, Tosi~F, Mattoccia~S.
+\newblock Quantitative evaluation of confidence measures in a machine learning
+  world [C].
+\newblock 2017 {IEEE} International Conference on Computer Vision ({ICCV}),
+  2017: 5228-5237.
+
+\bibitem[Vovk(2021{\natexlab{a}})]{vovk2021-priviate-communication}
+Vovk~V.
+\newblock private communication [J].
+\newblock 2021.
+
+\bibitem[Gammerman {\bibetal}(1998)Gammerman, Vovk, and Vapnik]{gammerman1998}
+Gammerman~A, Vovk~V, Vapnik~V.
+\newblock Learning by transduction [J].
+\newblock Proc. of the 14th Conf. on Uncertainty in artificial intelligence,
+  1998.
+
+\bibitem[Vovk {\bibetal}(1999)]{soton1999}
+Vovk~V, Gammerman~A, Saunders~C.
+\newblock Machine-learning applications of algorithmic randomness [C].
+\newblock Sixteenth International Conference on Machine Learning (ICML-1999)
+  (01/01/99), 1999.
+
+\bibitem[Saunders {\bibetal}(1999)Saunders, Gammerman, and Vovk]{Saunders1999}
+Saunders~C, Gammerman~A, Vovk~V.
+\newblock Transduction with confidence and credibility [J].
+\newblock Journal of Machine Learning Research, 1999.
+
+\bibitem[Kolmogorov(1933)]{Kolmogorov1933}
+Kolmogorov~A~N.
+\newblock {Grundbegriffe der Wahrscheinlichkeitsrechnung} [M].
+\newblock Springer, Berlin, 1933.
+
+\bibitem[Kolmogorov(1956)]{Kolmogorov-en-1956}
+Kolmogorov~A~N.
+\newblock {Foundations of the Theory of Probability (English translation by
+  Nathan Morrison, 2ed)} [M].
+\newblock Chelsea, New York, 1956.
+
+\bibitem[Kolmogorov(1931)]{Kolmogorov-en-1931-analytical}
+Kolmogorov~A~N.
+\newblock {On analytical methods in probability theory} [M].
+\newblock Selected Works of A.N. Kolmogorov, Volume II, Kluwer Academic
+  Publishers, 1931.
+
+\bibitem[Kolmogorov(1946)]{Kolmogorov-en-1946-leastsquare}
+Kolmogorov~A~N.
+\newblock {Justification of the method of least squares} [M].
+\newblock Selected Works of A.N. Kolmogorov, Volume II, Kluwer Academic
+  Publishers, 1946.
+
+\bibitem[Kolmogorov(1983)]{Kolmogorov-en-1983}
+Kolmogorov~A~N.
+\newblock {On the logical foundations of probability theory} [M].
+\newblock Selected Works of A.N. Kolmogorov, Volume II, Kluwer Academic
+  Publishers, 1983.
+
+\bibitem[Kolmogorov(1991)]{Kolmogorov-en-1991}
+Kolmogorov~A~N.
+\newblock {On the papers on the theory of functions and set theory} [M].
+\newblock Selected Works of A.N. Kolmogorov, Volume I, Kluwer Academic
+  Publishers, 1991.
+
+\bibitem[海德格尔(1966)]{Heidegger1966}
+海德格尔.
+\newblock 基础概念 [M].
+\newblock 张柯, 译.
+\newblock 商务印书馆 （2017年印）, 1966.
+
+\bibitem[Cortes {\bibetal}(1995)Cortes and Vapnik]{Cortes1995}
+Cortes~C, Vapnik~V.
+\newblock Support-vector networks [J].
+\newblock Machine Learning, 1995, 20: 273-297.
+
+\bibitem[Balasubramanian {\bibetal}(2019)Balasubramanian, Ho, and
+  Vovk]{Vineeth2019}
+Balasubramanian~V~N, Ho~S~S, Vovk~V.
+\newblock {Conformal Prediction for Reliable Machine Learning, Theory,
+  Adaptations and Applications} [M].
+\newblock Morgan Kaufmann, 2019.
+
+\bibitem[Lei {\bibetal}(2015)Lei, Rinaldo, and Wasserman]{Lei2015}
+Lei~J, Rinaldo~A, Wasserman~L.
+\newblock A conformal prediction approach to explore functional data [J].
+\newblock Annals of Mathematics and Artificial Intelligence, 2015, 74: 29-43.
+
+\bibitem[Vovk {\bibetal}(2021{\natexlab{a}})]{Vovk2021retrain}
+Vovk~V, Petej~I, Nouretdinov~I, et~al.
+\newblock Retrain or not retrain: Conformal test martingales for change-point
+  detection [C].
+\newblock Conformal and Probabilistic Prediction and Applications,
+  2021{\natexlab{a}}: 191-210.
+
+\bibitem[Aleksandrova {\bibetal}(2021)Aleksandrova and
+  Chertov]{Aleksandrova2021}
+Aleksandrova~M, Chertov~O.
+\newblock Impact of model-agnostic nonconformity functions on efficiency of
+  conformal classifiers: an extensive study [J].
+\newblock Proceedings of Machine Learning Research, 2021, 152: 151-170.
+
+\bibitem[Chernozhukov {\bibetal}(2018)Chernozhukov, Wuthrich, and
+  Zhu]{Victor2018}
+Chernozhukov~V, Wuthrich~K, Zhu~Y.
+\newblock Exact and robust conformal inference methods for predictive machine
+  learning with dependent data [J].
+\newblock arXiv:1802.06300, 2018.
+
+\bibitem[Chen {\bibetal}(2021)]{Xu2021}
+Chen~X, Yao~X.
+\newblock Conformal prediction interval for dynamic time-series [C].
+\newblock International Conference on Machine Learning, 2021: 11559-11569.
+
+\bibitem[Dashevskiy {\bibetal}(2011)Dashevskiy and Luo]{Dashevskiy2011}
+Dashevskiy~M, Luo~Z.
+\newblock Time series prediction with performance guarantee [J].
+\newblock IET communications, 2011, 5\penalty0 (8): 1044-1051.
+
+\bibitem[Papadopoulos {\bibetal}(2007)]{Papadopoulos2007}
+Papadopoulos~H, Vovk~V, Gammerman~A.
+\newblock Conformal prediction with neural networks: volume~2 [C].
+\newblock 19th IEEE International Conference on Tools with Artificial
+  Intelligence (ICTAI 2007), 2007: 388-395.
+
+\bibitem[{Bruno de Finetti}(1975)]{Finetti1975}
+{Bruno de Finetti}.
+\newblock {Theory of Probability: a critical introductory treatment (English
+  translation by Antonio Machi, Adrian Smith)} [M].
+\newblock John Wiley, 1975.
+
+\bibitem[Breiman(2001)]{Breiman2001}
+Breiman~L.
+\newblock Statistical modeling: The two cultures (with comments and a rejoinder
+  by the author) [J].
+\newblock Statistical science, 2001, 16\penalty0 (3): 199-231.
+
+\bibitem[Efron(2020)]{Efron2020}
+Efron~B.
+\newblock Prediction, estimation, and attribution [J].
+\newblock International Statistical Review, 2020, 88: S28-S59.
+
+\bibitem[Ho(2005)]{Ho2005}
+Ho~S~S.
+\newblock A martingale framework for concept change detection in time-varying
+  data streams [C].
+\newblock Proceedings of the 22nd international conference on Machine learning,
+  2005: 321-327.
+
+\bibitem[Ho(2012)]{Ho2012}
+Ho~S~S.
+\newblock On the detection of concept changes in time-varying data stream by
+  testing exchangeability [C].
+\newblock Arxiv:1207.1379, 2012.
+
+\bibitem[Ho {\bibetal}(2019)]{Ho2019}
+Ho~S~S, Schofield~M, Sun~B, et~al.
+\newblock A martingale-based approach for flight behavior anomaly detection
+  [C].
+\newblock 20th IEEE International Conference on Mobile Data Management (MDM),
+  2019: 43-52.
+
+\bibitem[Vovk(1993)]{Vovk1993}
+Vovk~V~G.
+\newblock A logic of probability, with application to the foundations of
+  statistics [J].
+\newblock {Journal of the Royal statistical society: series B
+  (Methodological)}, 1993, 55\penalty0 (2): 317-341.
+
+\bibitem[Lerner(1972)]{Lerner1972}
+Lerner~A.
+\newblock {A “Crisis” In The Theory of Pattern Recognition} [J/OL].
+\newblock Frontiers of Pattern Recognition, 1972: 367-372.
+\newblock
+  \url{https://www.sciencedirect.com/science/article/pii/B978012737140550021X}.
+
+\bibitem[Ewald(1996{\natexlab{a}})]{Ewald1996-1}
+Ewald~W.
+\newblock {From Kant to Hilbert: A Source Book in the Foundations of
+  Mathematics (Volume I)} [M].
+\newblock Clarendon Press, Oxford, 1996{\natexlab{a}}.
+
+\bibitem[Ewald(1996{\natexlab{b}})]{Ewald1996-2}
+Ewald~W.
+\newblock {From Kant to Hilbert: A Source Book in the Foundations of
+  Mathematics (Volume II)} [M].
+\newblock Clarendon Press, Oxford, 1996{\natexlab{b}}.
+
+\bibitem[Pechyony {\bibetal}(2010)]{Pechyony2010}
+Pechyony~D, Vapnik~V.
+\newblock On the theory of learnining with privileged information: volume~23
+  [C].
+\newblock Advances in neural information processing systems, 2010.
+
+\bibitem[Izmailov {\bibetal}(2017{\natexlab{a}})]{Izmailov2018}
+Izmailov~R, Lindqvist~B, Lin~P.
+\newblock Feature selection in learning using privileged information [C].
+\newblock 2017 IEEE International Conference on Data Mining Workshops (ICDMW),
+  2017{\natexlab{a}}: 957-963.
+
+\bibitem[Vrigkas {\bibetal}(2017)]{Vrigkas2017}
+Vrigkas~M, Kazakos~E, Nikou~C, et~al.
+\newblock Inferring human activities using robust privileged probabilistic
+  learning [C].
+\newblock Proceedings of the IEEE International Conference on Computer Vision
+  Workshops, 2017: 2658-2665.
+
+\bibitem[Vapnik {\bibetal}(2015{\natexlab{a}})Vapnik, Izmailov,
+  et~al.]{Vapnik-similary-2015}
+Vapnik~V, Izmailov~R, et~al.
+\newblock Learning using privileged information: similarity control and
+  knowledge transfer. [J].
+\newblock J. Mach. Learn. Res., 2015, 16\penalty0 (1): 2023-2049.
+
+\bibitem[Lapin {\bibetal}(2014)Lapin, Hein, and Schiele]{Lapin2014}
+Lapin~M, Hein~M, Schiele~B.
+\newblock Learning using privileged information: Svm+ and weighted svm [J].
+\newblock Neural Networks, 2014, 53: 95-108.
+
+\bibitem[Li {\bibetal}(2016)]{Li2016}
+Li~W, Dai~D, Tan~M, et~al.
+\newblock Fast algorithms for linear and kernel {SVM+} [C].
+\newblock 2016 IEEE Conference on Computer Vision and Pattern Recognition
+  (CVPR), 2016: 2258-2266.
+
+\bibitem[Zheng {\bibetal}(2017)]{Zheng2017}
+Zheng~X, Shi~J, Zhang~Q, et~al.
+\newblock Improving mri-based diagnosis of alzheimer's disease via an ensemble
+  privileged information learning algorithm [C].
+\newblock 2017: 456-459.
+
+\bibitem[Vapnik {\bibetal}(1963{\natexlab{a}})Vapnik and Lerner]{vapnik1962}
+Vapnik~V, Lerner~A~Y.
+\newblock Recognition of patterns with help of generalized portraits [J].
+\newblock Avtomat. i Telemekh, 1963, 24\penalty0 (6): 774-780.
+
+\bibitem[Vapnik {\bibetal}(1963{\natexlab{b}})Vapnik and Lerner]{vapnik1963}
+Vapnik~V, Lerner~A~Y.
+\newblock Recognition of patterns with help of generalized portraits [J].
+\newblock Avtomat. i Telemekh, 1963, 24\penalty0 (6): 774-780.
+
+\bibitem[Vapnik {\bibetal}(1964{\natexlab{a}})Vapnik and
+  Chervonenkis]{vapnik1964On}
+Vapnik~V~N, Chervonenkis~A~Y.
+\newblock On a perceptron class [J].
+\newblock Automation and Remote Control, 1964, 25: 112-120.
+
+\bibitem[Vapnik {\bibetal}(1964{\natexlab{b}})Vapnik and
+  Chervonenkis]{vapnik1964}
+Vapnik~V, Chervonenkis~A~Y.
+\newblock A class of algorithms for pattern recognition learning [J].
+\newblock Avtomat. i Telemekh, 1964, 25\penalty0 (6): 937-945.
+
+\bibitem[Hilbert {\bibetal}(1950)Hilbert and Ackermann]{Hilbert1950}
+Hilbert~D, Ackermann~W.
+\newblock {Grundz\"{u}ge der Theoretischen Logik (Principles of Mathematical
+  Logic)} [M].
+\newblock AMS Chelsea Publishing (English translation, 1950 (2nd Ed.)), 1950.
+
+\bibitem[Courant {\bibetal}(1953)Courant and Hilbert]{mmp-1953}
+Courant~R, Hilbert~D.
+\newblock {Methods of Mathematical Physics: Volume I} [M].
+\newblock Interscience Publishers, 1953.
+
+\bibitem[Courant {\bibetal}(1962)Courant and Hilbert]{mmp-1962}
+Courant~R, Hilbert~D.
+\newblock {Methods of Mathematical Physics: Volume II} [M].
+\newblock Interscience Publishers, 1962.
+
+\bibitem[Marx(1881)]{Marx1881}
+Marx~K.
+\newblock Mathematical manuscripts [M].
+\newblock Blunden~A, Silva~G.
+\newblock New Park Publications (1983), 1881.
+
+\bibitem[Faffelberger(1980)]{Faffelberger1980}
+Faffelberger~J.
+\newblock A review of:“theorie der zeichenerkennung” wn wapnik and aj
+  tscherwonenkis, akademie-verlag berlin, 1979, 343 pages, 33 illustrations,
+  edited by f. de p. hanika [J].
+\newblock Cybernetics And Systems, 1980, 11\penalty0 (1-2): 193-194.
+
+\bibitem[Rosenblatt(1962)]{Rosenblatt1962}
+Rosenblatt~F.
+\newblock {Principles of Neurodynamics: Perceptrons and the Theory of Brain
+  Mechanisms} [M].
+\newblock Spartan Books, Washington, D.C, 1962.
+
+\bibitem[Novikoff(1962)]{Novikoff1962}
+Novikoff~A.
+\newblock On convergence proofs on perceptrons [C].
+\newblock {Proceedings of the Symposium on the Mathematical Theory of
+  Automata}, 1962.
+
+\bibitem[Vapnik {\bibetal}(1968)Vapnik and Chernovenkis]{vapnik1968}
+Vapnik~V~N, Chernovenkis~A~Y.
+\newblock {Uniform Convergence of Frequencies of Occurance of Events to Their
+  Probabilities} [J].
+\newblock Soviet Mathematics Doklady, 1968, 16: 264-279.
+
+\bibitem[Vapnik {\bibetal}(1971)Vapnik and Chernovenkis]{vapnik1971}
+Vapnik~V~N, Chernovenkis~A~Y.
+\newblock {On the Uniform Convergence of Relative Frequencies of Events to
+  Their Probabilities} [J].
+\newblock Theory of Probability and Its Applications, 1971, 16: 264-279.
+
+\bibitem[吴晓明\ {\bibetal}(2005)吴晓明 and 王德峰]{wangdefeng2005}
+吴晓明, 王德峰.
+\newblock
+  马克思的哲学革命及其当代意义——存在论新境遇的开启
+  [M].
+\newblock 人民出版社, 2005.
+
+\bibitem[Lerner(1980)]{Lerner1980}
+Lerner~A.
+\newblock 控制论基础 [M].
+\newblock 刘定一, 译.
+\newblock 科学出版社, 1980.
+
+\bibitem[Kullback(1968)]{Kullback1968}
+Kullback~S.
+\newblock {Information Theory and Statistics} [M].
+\newblock Dover Publications, Garden City, New York, 1968.
+
+\bibitem[Chervonenkis(2015)]{Alexey2015}
+Chervonenkis~A~Y.
+\newblock {Chervonenkis’s recollections} [M].
+\newblock Vladimir Vovk, Harris Papadopoulos, and Alex Gammerman, editors.
+  Springer, Berlin., 2015.
+
+\bibitem[Novoseltsev(2015)]{Novoseltsev2015}
+Novoseltsev~V~N.
+\newblock {Institute of Control Science Through the Lens of VC Dimension} [M].
+\newblock Vladimir Vovk, Harris Papadopoulos, and Alex Gammerman, editors.
+  Springer, Berlin., 2015.
+
+\bibitem[Vapnik {\bibetal}(2020)]{vapnik2020}
+Vapnik~V, Izmailov~R.
+\newblock Complete statistical theory of learning: learning using statistical
+  invariants [C].
+\newblock Proceedings of the Ninth Symposium on Conformal and Probabilistic
+  Prediction and Applications, 2020.
+
+\bibitem[Husserl(1937)]{Husserl1937}
+Husserl~E.
+\newblock 欧洲科学的危机与超越论的现象学 [M].
+\newblock 王炳文, 译.
+\newblock 商务印书馆 (2017版), 1937.
+
+\bibitem[王德峰(2005)]{wangdefeng-xianxiangxue-2005}
+王德峰.
+\newblock {论马克思哲学对现象学原则的包含和超越} [M].
+\newblock 人民出版社, 2005.
+
+\bibitem[Platt {\bibetal}(1999)Platt et~al.]{Platt1999}
+Platt~J, et~al.
+\newblock Probabilistic outputs for support vector machines and comparisons to
+  regularized likelihood methods [J].
+\newblock Advances in large margin classifiers, 1999, 10\penalty0 (3): 61-74.
+
+\bibitem[Vapnik {\bibetal}(2021)Vapnik and Izmailov]{Vapnik2021}
+Vapnik~V, Izmailov~R.
+\newblock Reinforced svm method and memorization mechanisms [J].
+\newblock Pattern Recognition, 2021, 119: 108018.
+
+\bibitem[Vapnik {\bibetal}(2016)Vapnik and Izmailov]{Vapnik-Synergy-2016}
+Vapnik~V, Izmailov~R.
+\newblock Synergy of monotonic rules [J].
+\newblock Journal of Machine Learning Research, 2016, 17\penalty0 (1):
+  4722-4754.
+
+\bibitem[David(1995)]{Herbert1995}
+David~H~A.
+\newblock First (?) occurrence of common terms in statistics and probability
+  [M].
+\newblock 1995.
+
+\bibitem[David(1998)]{Herbert1998}
+David~H~A.
+\newblock First (?) occurrence of common terms in statistics and
+  probability—a second list, with corrections [M].
+\newblock 1998.
+
+\bibitem[David(2001)]{Herbert2001}
+David~H~A.
+\newblock First (?) occurrence of common terms in statistics and probability
+  [M].
+\newblock 2001.
+
+\bibitem[Ioannidis(2005)]{Ioannidis2005}
+Ioannidis~J~P.
+\newblock Why most published research findings are false [J].
+\newblock PLoS medicine, 2005, 2\penalty0 (8): e124.
+
+\bibitem[Taylor {\bibetal}(2015)Taylor and Tibshirani]{Taylor2015}
+Taylor~J, Tibshirani~R~J.
+\newblock Statistical learning and selective inference [J].
+\newblock Proceedings of the National Academy of Sciences, 2015, 112\penalty0
+  (25): 7629-7634.
+
+\bibitem[Tibshirani(2015)]{Tibshirani2015}
+Tibshirani~R.
+\newblock Some recent advances in post-selection inference [J/OL].
+\newblock Breiman Invited lecture, NIPS, 2015.
+\newblock \url{https://tibshirani.su.domains/ftp/nips2015.pdf}.
+
+\bibitem[Wasserstein {\bibetal}(2016)Wasserstein and Lazar]{Wasserstein2016}
+Wasserstein~R~L, Lazar~N~A.
+\newblock The asa statement on p-values: context, process, and purpose [J].
+\newblock The American Statistician, 2016, 70\penalty0 (2): 129-133.
+
+\bibitem[Ziliak(2017)]{Altman2017}
+Ziliak~S.
+\newblock P values and the search for significance [J].
+\newblock Nature methods, 2017, 14\penalty0 (1): 3-4.
+
+\bibitem[Andrade(2019)]{Andrade2019}
+Andrade~C.
+\newblock The p value and statistical significance: misunderstandings,
+  explanations, challenges, and alternatives [J].
+\newblock Indian journal of psychological medicine, 2019, 41\penalty0 (3):
+  210-215.
+
+\bibitem[Betensky(2019)]{Betensky2019}
+Betensky~R~A.
+\newblock The p-value requires context, not a threshold [J].
+\newblock The American Statistician, 2019, 73\penalty0 (sup1): 115-117.
+
+\bibitem[Kennedy-Shaffer(2019)]{Lee2019}
+Kennedy-Shaffer~L.
+\newblock Before p< 0.05 to beyond p< 0.05: using history to contextualize
+  p-values and significance testing [J].
+\newblock The American Statistician, 2019, 73\penalty0 (sup1): 82-90.
+
+\bibitem[Ioannidis(2019)]{Ioannidis2019}
+Ioannidis~J~P.
+\newblock What have we (not) learnt from millions of scientific papers with p
+  values? [J].
+\newblock The American Statistician, 2019, 73\penalty0 (sup1): 20-25.
+
+\bibitem[Vovk(2013)]{Vovk2013}
+Vovk~V.
+\newblock Kernel ridge regression [M].
+\newblock Empirical Inference: Festschrift in Honor of Vladimir N. Vapnik,
+  2013.
+
+\bibitem[Vovk {\bibetal}(2022)Vovk, Gammerman, and Shafer]{vovk2022algorithmic}
+Vovk~V, Gammerman~A, Shafer~G.
+\newblock {Algorithmic Learning in a Random World}, (2nd {Edition}) [M].
+\newblock Springer Science {\&} Business Media, 2022.
+
+\bibitem[Schapire {\bibetal}(2012)Schapire and Freund]{Boosting2012}
+Schapire~R~E, Freund~Y.
+\newblock {Boosting: Foundations and Algorithms} [M].
+\newblock 2012.
+
+\bibitem[Vovk {\bibetal}(2003{\natexlab{b}})Vovk, Lindsay, Nouretdinov, and
+  Gammerman]{Vovk-Mondrian-2003}
+Vovk~V, Lindsay~D, Nouretdinov~I, et~al.
+\newblock Mondrian confidence machine [J/OL].
+\newblock On-line Compression Modelling Project, Working Paper 4, 2003.
+\newblock \url{http://vovk.net/kp}.
+
+\bibitem[Shafer {\bibetal}(2008)Shafer and Vovk]{shafer08a}
+Shafer~G, Vovk~V.
+\newblock A tutorial on conformal prediction. [J].
+\newblock Journal of Machine Learning Research, 2008, 9\penalty0 (3).
+
+\bibitem[Shiryaev(2016{\natexlab{a}})]{shiryaev2016-1}
+Shiryaev~A~N.
+\newblock {Probability-1} [M].
+\newblock Springer (Third Edition), 2016{\natexlab{a}}.
+
+\bibitem[Shiryaev(2016{\natexlab{b}})]{shiryaev2016-2}
+Shiryaev~A~N.
+\newblock {Probability-2} [M].
+\newblock Springer (Third Edition), 2016{\natexlab{b}}.
+
+\bibitem[Shafer(2022)]{Shafer2022}
+Shafer~G.
+\newblock {So much data. Who needs probability? Have we been here before?} [J].
+\newblock International Journal of Approximate Reasoning, 2022, 141: 183-189.
+
+\bibitem[Wang {\bibetal}(2021)Wang, Yu, and Rinaldo]{Wang2021}
+Wang~D, Yu~Y, Rinaldo~A.
+\newblock {Optimal change point detection and localization in sparse dynamic
+  networks} [J].
+\newblock The Annals of Statistics, 2021.
+
+\bibitem[Kpotufe {\bibetal}(2018)]{Kpotufe2021}
+Kpotufe~S, Martinet~G.
+\newblock Marginal singularity, and the benefits of labels in covariate-shift
+  [C].
+\newblock Conference On Learning Theory, 2018: 1882-1886.
+
+\bibitem[Chervonenkis(2013{\natexlab{b}})]{Alexey2013}
+Chervonenkis~A~Y.
+\newblock {Early History of Support Vector Machines} [M].
+\newblock {Empirical Inference, Festschrift in Honor of Vladimir N. Vapnik},
+  2013{\natexlab{b}}.
+
+\bibitem[Fisher(1956)]{Fisher1956}
+Fisher~R~A.
+\newblock {统计方法和科学推断} [M].
+\newblock 杨艳秋, 程晓亮, 王晓红, 译.
+\newblock 哈尔滨工业大学出版社 (2021年中文版), 1956.
+
+\bibitem[Conniffe(1991)]{CDenis1990}
+Conniffe~D.
+\newblock {R.A. Fisher} and the development of statistics - a view in his
+  centerary year [J].
+\newblock Journal of the Statistical and Social Inquiry Society of Ireland,
+  1991.
+
+\bibitem[M(2018)]{Malyutov2018}
+M~M.
+\newblock {Statistician and Mathematician. Ronald Fisher and Andrey Kolmogorov:
+  A Distant Strained Relationship} [J].
+\newblock Информационные процессы, 2018, 18\penalty0 (4):
+  296-303.
+
+\bibitem[Vovk(2004)]{2003Universal}
+Vovk~V.
+\newblock A universal well-calibrated algorithm for on-line classification [J].
+\newblock The Journal of Machine Learning Research, 2004, 5: 575-604.
+
+\bibitem[Shafer {\bibetal}(2018)Shafer and Vovk]{Shafer2018}
+Shafer~G, Vovk~V.
+\newblock {The origins and legacy of Kolmogorov's Grundbegriffe} [J/OL].
+\newblock {The Game-Theoretic Probability and Finance Project, Working paper
+  4}, 2018.
+\newblock \url{http://probabilityandfinance.com/articles/04.pdf}.
+
+\bibitem[Laurent {\bibetal}(2022)Laurent, Glenn, and Alexander]{Bienvenu2022}
+Laurent~B, Glenn~S, Alexander~S.
+\newblock {Andrei Kolmogorov and Leonid Levin on Randomness} [M].
+\newblock Cham: Springer International Publishing, 2022: 405-414.
+
+\bibitem[Vapnik(2022{\natexlab{a}})]{vapniktalk2022}
+Vapnik~V.
+\newblock {Development of learning theory from Mathematical, Algorithmic and
+  Philosophical Points of View} [J].
+\newblock Invited Talk, 2022.
+
+\bibitem[Ville(1939)]{Ville1939}
+Ville~J.
+\newblock {Etude critique de la collectif (Critique Research on Collective)}
+  [J].
+\newblock {Gauthier-Villars Paris}, 1939.
+
+\bibitem[Shafer {\bibetal}(2001)Shafer and Vovk]{glenn-vovk2001}
+Shafer~G, Vovk~V.
+\newblock {Probability and Finance It's Only a Game!} [M].
+\newblock John Wiley, 2001.
+
+\bibitem[Shafer {\bibetal}(2019)Shafer and Vovk]{glenn-vovk2019}
+Shafer~G, Vovk~V.
+\newblock {Game-Theoretic Foundations for Probability and Finance} [M].
+\newblock Wiley, Hoboken, NJ, 2019.
+
+\bibitem[Gurevich {\bibetal}(2019)Gurevich and Vovk]{vovk-pvalue2019}
+Gurevich~Y, Vovk~V.
+\newblock Test statistics and p-values [J/OL].
+\newblock Working paper 16, 2019.
+\newblock \url{http://alrw.net/}.
+
+\bibitem[Ulf~Johansson {\bibetal}(2017)]{Johansson2017}
+Ulf~Johansson~T~L, Henrik~Linusson, Bostr{\"o}m~H.
+\newblock Model-agnostic nonconformity functions for conformal classification
+  [C].
+\newblock 2017 International Joint Conference on Neural Networks (IJCNN), 2017:
+  2072-2079.
+
+\bibitem[Doob(1984)]{Doob1984}
+Doob~J~L.
+\newblock {Classical Potential Theory and Its Probabilistic Counterpart} [M].
+\newblock New York: Springer-Verlag, 1984.
+
+\bibitem[Vovk(2001)]{vovk2001}
+Vovk~V.
+\newblock Competitive on-line statistics [J].
+\newblock International Statistical Review, 2001, 69\penalty0 (2): 213-248.
+
+\bibitem[Vovk(2021{\natexlab{b}})]{vovk2021}
+Vovk~V.
+\newblock Testing for concept shift online [J].
+\newblock working paper 31, 2021.
+
+\bibitem[Bienvenu {\bibetal}(2009{\natexlab{a}})Bienvenu and Shen]{Laurent2009}
+Bienvenu~L, Shen~A.
+\newblock {Algorithmic information theory and martingales} [J].
+\newblock {arxiv:0906.2614}, 2009.
+
+\bibitem[Bienvenu {\bibetal}(2009{\natexlab{b}})Bienvenu, Shafer, and
+  Shen]{Bienvenu2009OnTH}
+Bienvenu~L, Shafer~G, Shen~A.
+\newblock On the history of martingales in the study of randomness [J].
+\newblock {Electronic Journal for History of Probability and Statistics}, 2009,
+  5\penalty0 (1): 1-40.
+
+\bibitem[B\'egin {\bibetal}(2014)]{Luc2014}
+B\'egin~L, Germain~P, Laviolette~F, et~al.
+\newblock {PAC-Bayesian Theory for Transductive Learning} [C].
+\newblock Proceedings of the Seventeenth International Conference on Artificial
+  Intelligence and Statistics, 2014: 105-113.
+
+\bibitem[Vovk(2021{\natexlab{c}})]{Vovk2021protectedregression}
+Vovk~V.
+\newblock Protected probabilistic regression [J/OL].
+\newblock On-line Compression Modelling project (New Series), Working paper 34,
+  2021.
+\newblock \url{http://alrw.net}.
+
+\bibitem[Vovk {\bibetal}(2021{\natexlab{b}})Vovk, Petej, and
+  Gammerman]{Vovk2021protectedclassification}
+Vovk~V, Petej~I, Gammerman~A.
+\newblock Protected probabilistic classification [J/OL].
+\newblock On-line Compression Modelling project (New Series), Working paper 35,
+  2021.
+\newblock \url{http://alrw.net}.
+
+\bibitem[Vapnik(2014)]{vapnikinterview2014}
+Vapnik~V.
+\newblock {“Learning Has Just Started” —— an interview with Prof.
+  Vladimir Vapnik} [J/OL].
+\newblock Association for Computational Learning, 2014.
+\newblock
+  \url{https://www.learningtheory.org/learning-has-just-started-an-interview-with-prof-vladimir-vapnik/}.
+
+\bibitem[Vapnik(2022{\natexlab{b}})]{vapniktalk2022-02}
+Vapnik~V.
+\newblock {Science of the Future Autonomous Research: What's the Next Big
+  Questions in AI} [J].
+\newblock AFRL Invited Talk, 2022.
+
+\bibitem[Belkin {\bibetal}(2019)Belkin, Hsu, Ma, and Mandal]{2019Reconciling}
+Belkin~M, Hsu~D, Ma~S, et~al.
+\newblock Reconciling modern machine-learning practice and the classical
+  bias--variance trade-off [J].
+\newblock 2019, 116\penalty0 (32): 15849-15854.
+
+\bibitem[Vapnik {\bibetal}(2015{\natexlab{b}})Vapnik and Izmailov]{vapnik2015}
+Vapnik~V, Izmailov~R.
+\newblock Learning with intelligent teacher: similarity control and knowledge
+  transfer [M].
+\newblock In: Gammerman A., Vovk V., Papadopoulos H. (eds) Statistical Learning
+  and Data Sciences. SLDS 2015., 2015{\natexlab{b}}.
+
+\bibitem[埃德蒙德·胡塞尔(1948)]{Husser1928}
+埃德蒙德·胡塞尔.
+\newblock 经验与判断 [M].
+\newblock 邓晓芒, 张廷国, 译.
+\newblock 生活·读书·新知三联书店 (1999年版), 1948.
+
+\bibitem[Husserl(1948)]{Husser1948-en}
+Husserl~E.
+\newblock {Experience and Judgment, Invertigations in a Genealogy of Logic}
+  [M].
+\newblock Churchill~J~S, Ameriks~K.
+\newblock Routledge \& Kegan Paul, London, 1948.
+
+\bibitem[Shiao {\bibetal}(2014)]{Shiao2014}
+Shiao~H~T, Cherkassky~V.
+\newblock Learning using privileged information (lupi) for modeling survival
+  data [C].
+\newblock 2014 International Joint Conference on Neural Networks (IJCNN), 2014:
+  1042-1049.
+
+\bibitem[Izmailov {\bibetal}(2017{\natexlab{b}})]{Izmailov2017}
+Izmailov~R, Lindqvist~B, Lin~P.
+\newblock Feature selection in learning using privileged information [C].
+\newblock 2017 IEEE International Conference on Data Mining Workshops (ICDMW),
+  2017{\natexlab{b}}: 957-963.
+
+\bibitem[Tunstr{\o}m {\bibetal}(2013)Tunstr{\o}m, Katz, Ioannou, Huepe, Lutz,
+  and Couzin]{Tunstrm2013}
+Tunstr{\o}m~K, Katz~Y, Ioannou~C~C, et~al.
+\newblock Collective states, multistability and transitional behavior in
+  schooling fish [J].
+\newblock PLoS computational biology, 2013, 9\penalty0 (2): e1002915.
+
+\bibitem[Rubenstein {\bibetal}(2014)Rubenstein, Cornejo, and
+  Nagpal]{Michael2014}
+Rubenstein~M, Cornejo~A, Nagpal~R.
+\newblock Programmable self-assembly in a thousand-robot swarm [J].
+\newblock Science, 2014, 345\penalty0 (6198): 795-799.
+
+\bibitem[Brown {\bibetal}(2014{\natexlab{b}})]{Brown-Human-swarm2014}
+Brown~D~S, Kerman~S~C, Goodrich~M~A.
+\newblock Human-swarm interactions based on managing attractors [C].
+\newblock Proceedings of the 2014 {ACM}/{IEEE} international conference on
+  Human-robot interaction, 2014{\natexlab{b}}: 90-97.
+
+\bibitem[Walker {\bibetal}(2014)]{Walker2014}
+Walker~P, Amraii~S~A, Chakraborty~N, et~al.
+\newblock Human control of robot swarms with dynamic leaders [C].
+\newblock 2014 IEEE/RSJ International Conference on Intelligent Robots and
+  Systems, 2014: 1108-1113.
+
+\end{thebibliography}

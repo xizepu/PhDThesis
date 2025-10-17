@@ -1,0 +1,60 @@
+\contentsline {chapter}{\numberline {第一章\hspace {.3em}}绪论}{1}{chapter.1}%
+\contentsline {section}{\numberline {1.1}研究背景与意义}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}相关技术研究进展}{2}{section.1.2}%
+\contentsline {subsection}{\numberline {1.2.1}无人机集群行为分类研究进展}{2}{subsection.1.2.1}%
+\contentsline {subsection}{\numberline {1.2.2}一致性预测方法研究进展}{4}{subsection.1.2.2}%
+\contentsline {subsection}{\numberline {1.2.3}分布漂移检测方法研究进展}{5}{subsection.1.2.3}%
+\contentsline {subsection}{\numberline {1.2.4}使用特权信息学习方法研究进展}{6}{subsection.1.2.4}%
+\contentsline {section}{\numberline {1.3}研究内容与安排}{7}{section.1.3}%
+\contentsline {chapter}{\numberline {第二章\hspace {.3em}}机器学习算法一致收敛基础理论}{11}{chapter.2}%
+\contentsline {section}{\numberline {2.1}引言}{11}{section.2.1}%
+\contentsline {section}{\numberline {2.2}将学习问题归约为最小化经验风险泛函问题}{13}{section.2.2}%
+\contentsline {section}{\numberline {2.3}有限决策规则下学习问题一致收敛条件}{14}{section.2.3}%
+\contentsline {subsection}{\numberline {2.3.1}不可分情形下绝对偏差一致收敛的界}{16}{subsection.2.3.1}%
+\contentsline {subsection}{\numberline {2.3.2}可分情形下绝对偏差一致收敛的界}{18}{subsection.2.3.2}%
+\contentsline {section}{\numberline {2.4}无限决策规则下学习问题一致收敛条件}{20}{section.2.4}%
+\contentsline {subsection}{\numberline {2.4.1}“频率-概率”一致收敛速度的界}{23}{subsection.2.4.1}%
+\contentsline {section}{\numberline {2.5}本章小结}{26}{section.2.5}%
+\contentsline {chapter}{\numberline {第三章\hspace {.3em}}基于一致性预测的无人机集群分类不确定量化研究}{27}{chapter.3}%
+\contentsline {section}{\numberline {3.1}引言}{27}{section.3.1}%
+\contentsline {section}{\numberline {3.2}一致性预测理论研究}{28}{section.3.2}%
+\contentsline {section}{\numberline {3.3}蒙德里安一致性预测不确定量化方法研究}{31}{section.3.3}%
+\contentsline {section}{\numberline {3.4}基于蒙德里安一致性预测的无人机集群分类}{35}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}仿真无人机集群行为数据}{35}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}真实无人机集群行为数据}{36}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}试验一：二元无人机集群行为分类研究}{38}{subsection.3.4.3}%
+\contentsline {subsection}{\numberline {3.4.4}试验二：多元无人机集群行为分类研究}{41}{subsection.3.4.4}%
+\contentsline {section}{\numberline {3.5}本章小结}{45}{section.3.5}%
+\contentsline {chapter}{\numberline {第四章\hspace {.3em}}无人机集群行为数据的分布漂移检测方法研究}{47}{chapter.4}%
+\contentsline {section}{\numberline {4.1}引言}{47}{section.4.1}%
+\contentsline {section}{\numberline {4.2}基于一致性预测的分布漂移检测研究}{48}{section.4.2}%
+\contentsline {section}{\numberline {4.3}基于一致性预测的鞅序列构建}{50}{section.4.3}%
+\contentsline {subsection}{\numberline {4.3.1}基于一致性预测算法计算p-值}{51}{subsection.4.3.1}%
+\contentsline {subsection}{\numberline {4.3.2}基于p-值构建鞅序列}{52}{subsection.4.3.2}%
+\contentsline {section}{\numberline {4.4}基于鞅序列的无人机集群数据分布漂移检测}{54}{section.4.4}%
+\contentsline {subsection}{\numberline {4.4.1}随机处理数据前后对比研究}{55}{subsection.4.4.1}%
+\contentsline {subsection}{\numberline {4.4.2}无人机集群行为数据分布漂移检测}{57}{subsection.4.4.2}%
+\contentsline {section}{\numberline {4.5}本章小结}{62}{section.4.5}%
+\contentsline {chapter}{\numberline {第五章\hspace {.3em}}基于鞅保护分布方法的无人机集群行为分类研究}{63}{chapter.5}%
+\contentsline {section}{\numberline {5.1}引言}{63}{section.5.1}%
+\contentsline {section}{\numberline {5.2}基于一致性预测的鞅保护分布方法理论研究}{63}{section.5.2}%
+\contentsline {subsection}{\numberline {5.2.1}鞅保护分布方法研究现状}{64}{subsection.5.2.1}%
+\contentsline {subsection}{\numberline {5.2.2}鞅保护分布方法理论研究}{65}{subsection.5.2.2}%
+\contentsline {section}{\numberline {5.3}基于一致性预测的鞅保护分布方案设计}{67}{section.5.3}%
+\contentsline {section}{\numberline {5.4}基于鞅保护分布方法的无人机集群行为分类}{70}{section.5.4}%
+\contentsline {section}{\numberline {5.5}本章小结}{75}{section.5.5}%
+\contentsline {chapter}{\numberline {第六章\hspace {.3em}}使用特权信息学习范式的无人机集群行为分类研究}{77}{chapter.6}%
+\contentsline {section}{\numberline {6.1}引言}{77}{section.6.1}%
+\contentsline {section}{\numberline {6.2}使用特权信息学习方法的理论研究}{79}{section.6.2}%
+\contentsline {section}{\numberline {6.3}无人机集群使用特权信息学习方案设计}{81}{section.6.3}%
+\contentsline {section}{\numberline {6.4}整体描述作为特权信息加速分类算法收敛研究}{88}{section.6.4}%
+\contentsline {subsection}{\numberline {6.4.1}无人机集群的合作描述作为特权信息}{88}{subsection.6.4.1}%
+\contentsline {subsection}{\numberline {6.4.2}无人机集群的竞争描述作为特权信息}{90}{subsection.6.4.2}%
+\contentsline {section}{\numberline {6.5}本章小结}{95}{section.6.5}%
+\contentsline {chapter}{\numberline {第七章\hspace {.3em}}总结与展望}{97}{chapter.7}%
+\contentsline {section}{\numberline {7.1}论文工作总结}{97}{section.7.1}%
+\contentsline {section}{\numberline {7.2}论文创新点}{98}{section.7.2}%
+\contentsline {section}{\numberline {7.3}论文工作展望}{98}{section.7.3}%
+\contentsline {chapter}{参考文献}{99}{section*.56}%
+\contentsline {chapter}{致谢}{109}{chapter*.58}%
+\contentsline {chapter}{作者攻读学位期间发表的学术论文与研究成果}{111}{chapter*.59}%

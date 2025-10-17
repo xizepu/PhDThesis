@@ -1,0 +1,32 @@
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {1.1}{\ignorespaces 无人机集群若干典型行为示意图\relax }}{1}{figure.caption.14}%
+\contentsline {figure}{\numberline {1.2}{\ignorespaces 论文组织结构图\relax }}{8}{figure.caption.15}%
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {2.1}{\ignorespaces 现象学学习理论模型示意图\relax }}{13}{figure.caption.16}%
+\contentsline {figure}{\numberline {2.2}{\ignorespaces 机器学习理论一致收敛问题示意图\relax }}{16}{figure.caption.17}%
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces 无人机集群行为分类蒙德里安一致性预测方案框架图\relax }}{35}{figure.caption.18}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces MCP方法校正前后无人机集群真实数据集错误控制对比\relax }}{42}{figure.caption.23}%
+\contentsline {figure}{\numberline {3.3}{\ignorespaces MCP方法校正前后无人机集群仿真数据集错误控制对比\relax }}{45}{figure.caption.26}%
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces 无分布假设鞅序列分布漂移检测方案框架图\relax }}{48}{figure.caption.27}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces {Align}行为数据集有序学习的鞅序列\relax }}{58}{figure.caption.31}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces 随机化{Align}行为数据集有序学习的鞅序列\relax }}{59}{figure.caption.32}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces {Flock}行为数据集有序学习的鞅序列\relax }}{60}{figure.caption.33}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces 随机化{Flock}行为数据集有序学习的鞅序列\relax }}{60}{figure.caption.34}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces {Group}行为数据集有序学习的鞅序列\relax }}{61}{figure.caption.35}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces 随机化{Group}行为数据集有序学习的鞅序列\relax }}{62}{figure.caption.36}%
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {5.1}{\ignorespaces 鞅保护SVMs和鞅保护神经网络算法分类结果示例\relax }}{65}{figure.caption.37}%
+\contentsline {figure}{\numberline {5.2}{\ignorespaces Align数据集的复合跳跃鞅以及鞅保护分布算法结果\relax }}{71}{figure.caption.38}%
+\contentsline {figure}{\numberline {5.3}{\ignorespaces Flock数据集的复合跳跃鞅以及鞅保护分布算法结果\relax }}{71}{figure.caption.39}%
+\contentsline {figure}{\numberline {5.4}{\ignorespaces Group数据集的复合跳跃鞅以及鞅保护分布算法结果\relax }}{72}{figure.caption.40}%
+\addvspace {10.0pt}
+\contentsline {figure}{\numberline {6.1}{\ignorespaces 使用特权信息学习范式方案设计框架图\relax }}{83}{figure.caption.47}%
+\contentsline {figure}{\numberline {6.2}{\ignorespaces 智能体合作关系的整体描述示意图\relax }}{86}{figure.caption.48}%
+\contentsline {figure}{\numberline {6.3}{\ignorespaces 智能体竞争关系的整体描述示意图\relax }}{87}{figure.caption.49}%
+\contentsline {figure}{\numberline {6.4}{\ignorespaces 合作关系作为特权信息的LUPI方法分类准确度比较\relax }}{91}{figure.caption.52}%
+\contentsline {figure}{\numberline {6.5}{\ignorespaces 竞争关系作为特权信息的LUPI方法分类错误率比较\relax }}{94}{figure.caption.55}%
+\addvspace {10.0pt}
+\addvspace {10.0pt}
+\addvspace {10.0pt}

@@ -1,0 +1,1858 @@
+%---------------------------------------------------------------------------%
+%-                                                                         -%
+%-                             Bibliography                                -%
+%-                                                                         -%
+%---------------------------------------------------------------------------%
+@book{wikibook2014latex,
+    title={http://en.wikibooks.org/wiki/LaTeX},
+    author={Wikibook},
+    year={2014},
+    publisher={On-line Resources}
+}
+@book{lamport1986document,
+    title={Document Preparation System},
+    author={Lamport, Leslie},
+    year={1986},
+    publisher={Addison-Wesley Reading, MA}
+}
+
+@book{hls2012jinji,
+    author       = {哈里森·沃尔德伦},
+    key          = {Haliseng Woerdelun},
+    translator   = {谢远涛},
+    title        = {经济数学与金融数学},
+    address      = {北京},
+    publisher    = {中国人民大学出版社},
+    year         = {2012},
+    pages        = {235--236},
+}
+
+@incollection{chen1980zhongguo,
+    author       = {陈晋镳 and 张惠民 and 朱士兴 and 赵震 and 王振刚},
+    key          = {Chen Jing Ao Zhang Hui Ming Zhu Shi Xing Zhao Zhen Wang Zhen Gang},
+    title        = {蓟县震旦亚界研究},
+    editor       = {中国地质科学院天津地质矿产研究所},
+    booktitle    = {中国震旦亚界},
+    address      = {天津},
+    publisher    = {天津科学技术出版社},
+    year         = {1980},
+    pages        = {56--114},
+}
+@Book{vovk-harris-Gammerman2015,
+editor = {Vladimir Vovk and Harris Papadopoulos and Alexander Gammerman},
+publisher = {Springer International Publishing Switzerland},
+title = {{Measures of Complexity, Festschrift for Alexey Chervonenkis}},
+year = {2015}
+}
+
+@Book{Husserl-five-lectures,
+    title={现象学的观念——五篇讲座稿},
+    translator   = {倪梁康},
+    author={Edmund Husserl},
+    publisher={商务印书馆},
+    year={2019}
+}
+
+@Book{zhangxuegong2000,
+    title={统计学习理论的本质},
+    translator   = {张学工},
+    author={Vladimir Vapnik},
+    publisher={清华大学出版社},
+    year={2000}
+}
+
+@Book{zhangxuegong2003,
+    title={统计学习理论},
+    translator={许建华 and 张学工},
+    author={Vladimir Vapnik},
+    publisher={电子工业出版社},
+    year={2003}
+}
+
+@Book{Lerner1980,
+    title={控制论基础},
+    translator = {刘定一},
+    author={Alexander Lerner},
+    publisher={科学出版社},
+    year={1980}
+}
+
+@Book{niliangkang1994,
+    title={现象学及其效应——胡塞尔与当代德国哲学},
+    author={倪梁康},
+    publisher={生活·读书·新知三联书店},
+    year={1994}
+}
+
+@article{Shafer2022,
+  year = {2022},
+  month = feb,
+  publisher = {Elsevier {BV}},
+  volume = {141},
+  pages = {183--189},
+  author = {Glenn Shafer},
+  title = {{So much data. Who needs probability? Have we been here before?}},
+  journal = {International Journal of Approximate Reasoning}
+}
+
+
+@Book{vapnik1984,
+    title={{Алгоритмы и программы восстановления зависимостей(Algorithms and Programs for Recovering Dependencies)}},
+    author={Vladimir Vapnik},
+    publisher={Moscow},
+    year={1984}
+}
+
+@article{Faffelberger1980,
+  year = {1980},
+  author = {J. Faffelberger},
+  title = {{A Review of: ``Theorie Der Zeichenerkennung" W. N. Wapnik and A. J. Tscherwonenkis,  Akademie-Verlag Berlin,  1979, 343 pages, 33 illustrations, Edited by F. de P. {Hanika}}},
+  journal = {Cybernetics and Systems}
+}
+
+@Book{Fisher1956,
+    title={{统计方法和科学推断}},
+    translator = {杨艳秋 and 程晓亮 and 王晓红},
+    author={R. A. Fisher},
+    publisher={哈尔滨工业大学出版社 (2021年中文版)},
+    year={1956}
+}
+
+@Book{Cantor1915,
+    title={超穷数理论基础},
+    translator   = {陈杰 and 刘晓力},
+    author={格奥尔格·康托},
+    publisher={商务印书馆 (2017年重印)},
+    year={1915}
+}
+
+@Book{wuxiaoming2022,
+    title={马克思早期思想的逻辑发展},
+    author={吴晓明},
+    publisher={上海人民出版社},
+    year={2022}
+}
+
+@Book{wuxiaoming2017,
+    title={形而上学的没落——马克思与费尔巴哈关系的当代解读},
+    author={吴晓明},
+    publisher={北京师范大学出版社},
+    year={2017}
+}
+
+@Book{wangdefeng2000,
+    title={哲学导论},
+    author={王德峰},
+    publisher={上海人民出版社},
+    year={2000}
+}
+
+@Book{wangdefeng2005,
+    title={马克思的哲学革命及其当代意义——存在论新境遇的开启},
+    author={吴晓明 and 王德峰},
+    publisher={人民出版社},
+    year={2005}
+}
+
+@Book{Husserl1937,
+    title={欧洲科学的危机与超越论的现象学},
+    author={Edmund Husserl},
+    translator = {王炳文},
+    publisher={商务印书馆 (2017版)},
+    year={1937}
+}
+
+@Book{popper1990,
+    title={科学发现的逻辑},
+    author={Karl Popper},
+    translator = {查汝强 and 邱仁宗 and 万木春},
+    publisher={中国美术学院出版社 (2007年版)},
+    year={1990}
+}
+
+@Book{popper1959,
+    title={历史决定论的贫困},
+    author={Karl Popper},
+    translator = {杜汝楫 and 邱仁宗},
+    publisher={上海人民出版社 (2009年版)},
+    year={1959}
+}
+
+@Book{Husser1928,
+    title={经验与判断},
+    author={埃德蒙德·胡塞尔},
+    translator = {邓晓芒 and 张廷国},
+    publisher={生活·读书·新知三联书店 (1999年版)},
+    year={1948}
+}
+
+@Book{Husser1948-en,
+    title={{Experience and Judgment, Invertigations in a Genealogy of Logic}},
+    author={Edmund Husserl},
+    translator = {James S. Churchill and Karl Ameriks},
+    publisher={Routledge \& Kegan Paul, London},
+    year={1948}
+}
+
+@Book{Kolmogorov1933,
+    title={{Grundbegriffe der Wahrscheinlichkeitsrechnung}},
+    author={Andrei N. Kolmogorov},
+    publisher={Springer, Berlin},
+    year={1933}
+}
+
+@Book{Rosenblatt1962,
+    title={{Principles of Neurodynamics: Perceptrons and the Theory of Brain Mechanisms}},
+    author={Frank Rosenblatt},
+    publisher={Spartan Books, Washington, D.C},
+    year={1962}
+}
+
+
+@Book{Chervonenkis2013,
+    title={{Computer Data Analysis (in Russian)}},
+    author={Alexey Chervonenkis},
+    publisher={Yandex, Moscow},
+    year={2013}
+}
+
+
+@Book{Heidegger1966,
+    title={基础概念},
+    author={海德格尔},
+    translator = {张柯},
+    publisher={商务印书馆 （2017年印）},
+    year={1966}
+}
+
+@Book{Kolmogorov-en-1956,
+    title={{Foundations of the Theory of Probability (English translation by Nathan Morrison, 2ed)}},
+    author={Andrei N. Kolmogorov},
+    publisher={Chelsea, New York},
+    year={1956}
+}
+
+@Book{Kolmogorov-en-1991,
+    title={{On the papers on the theory of functions and set theory}},
+    author={Andrei N. Kolmogorov},
+    publisher={Selected Works of A.N. Kolmogorov, Volume I, Kluwer Academic Publishers},
+    year={1991}
+}
+
+@Book{Kolmogorov-en-1931-analytical,
+    title={{On analytical methods in probability theory}},
+    author={Andrei N. Kolmogorov},
+    publisher={Selected Works of A.N. Kolmogorov, Volume II, Kluwer Academic Publishers},
+    year={1931}
+}
+
+@Book{Kolmogorov-en-1946-leastsquare,
+    title={{Justification of the method of least squares}},
+    author={Andrei N. Kolmogorov},
+    publisher={Selected Works of A.N. Kolmogorov, Volume II, Kluwer Academic Publishers},
+    year={1946}
+}
+
+@Book{Kolmogorov-en-1983,
+    title={{On the logical foundations of probability theory}},
+    author={Andrei N. Kolmogorov},
+    publisher={Selected Works of A.N. Kolmogorov, Volume II, Kluwer Academic Publishers},
+    year={1983}
+}
+
+@Book{Finetti1975,
+    title={{Theory of Probability: a critical introductory treatment (English translation by Antonio Machi, Adrian Smith)}},
+    author={{Bruno de Finetti}},
+    publisher={John Wiley},
+    year={1975}
+}
+
+@Book{Hilbert1950,
+  year = {1950},
+  author = {David Hilbert and Wilhelm Ackermann},
+  title = {{Grundz\"{u}ge der Theoretischen Logik (Principles of Mathematical Logic)}},
+  publisher = {AMS Chelsea Publishing (English translation, 1950 (2nd Ed.))},
+}
+
+@article{CDenis1990,
+    title={{R.A. Fisher} and the development of statistics - a view in his centerary year},
+    author={Conniffe, Denis},
+    journal={Journal of the Statistical and Social Inquiry Society of Ireland},
+    year={1990}
+}
+
+@article{Malyutov2018,
+    title={{Statistician and Mathematician. Ronald Fisher and Andrey Kolmogorov: A Distant Strained Relationship }},
+    author={M. Malyutov},
+    journal={Information Theory and Information Processing},
+    year={2018}
+}
+
+@article{Aleksandrova2021,
+  title = 	 {Impact of model-agnostic nonconformity functions on efficiency of conformal classifiers: an extensive study},
+  author =       {Aleksandrova, Marharyta and Chertov, Oleg},
+  year = 	 {2021},
+  volume = 	 {152},
+  journal = 	 {Proceedings of Machine Learning Research},
+}
+
+
+@Article{Vapnik-rethinking-2018,
+  author    = {Vladimir Vapnik and Rauf Izmailov},
+  journal   = {Machine Learning},
+  title     = {{Rethinking statistical learning theory: learning using statistical invariants}},
+  year      = {2018},
+}
+
+@Article{Vapnik-Intelligent-Learning-2018,
+  author    = {Vladimir Vapnik and Rauf Izmailov},
+  journal   = {Air Force Research Laboratory, AF Office Of Scientific Research (AFOSR)\/RTA2},
+  title     = {{Intelligent Learning: Final Report}},
+  year      = {2018},
+}
+
+@Article{Vapnik-PPAML-2017,
+  author    = {Vladimir Vapnik and Rauf Izmailov},
+  journal   = {Air Force Research Laboratory, Information Directorate},
+  title     = {{Probabilistic Programming for Advanced Machine Learning (PPAML) - Discriminative Learning for Generative Tasks (DILIGENT)}},
+  year      = {2017},
+}
+
+
+@Article{Vapnik-Synergy-2016,
+  author    = {Vladimir Vapnik and Rauf Izmailov},
+  journal   = {Journal of Machine Learning Research},
+  title     = {Synergy of Monotonic Rules},
+  year      = {2016},
+}
+
+
+@article{Cortes1995,
+  year = {1995},
+  author = {Corinna Cortes and Vladimir Vapnik},
+  title = {Support-vector networks},
+  journal = {Machine Learning}
+}
+
+@article{Zainab2020,
+Author = {Zainab Abohashima and Mohamed Elhosen and Essam H. Houssein and Waleed M. Mohamed},
+Title = {Classification with Quantum Machine Learning: A Survey},
+Year = {2020},
+journal = {arXiv:2006.12270},
+}
+
+@article{Guyon2016,
+Author = {Isabelle Guyon},
+Title = {{Data Mining History: The Invention of Support Vector Machines}},
+Year = {2016},
+url = {https://www.kdnuggets.com/2016/07/guyon-data-mining-history-svm-support-vector-machines.html},
+}
+
+@article{CabreroHolgueras2021,
+  year = {2021},
+  volume = {2021},
+  number = {4},
+  pages = {139--162},
+  author = {Jos{\'{e}} Cabrero-Holgueras and Sergio Pastrana},
+  title = {{SoK}: Privacy-Preserving Computation Techniques for Deep Learning},
+  journal = {Proceedings on Privacy Enhancing Technologies}
+}
+
+@article{Greenland2016,
+  year = {2016},
+  author = {Sander Greenland and Stephen J. Senn and Kenneth J. Rothman and John B. Carlin and Charles Poole and Steven N. Goodman and Douglas G. Altman},
+  title = {Statistical tests,  P values,  confidence intervals,  and power: a guide to misinterpretations},
+  journal = {European journal of Epidemiology}
+}
+
+
+
+@Article{Vapnik2008,
+  author       = {Vladimir Vapnik and Akshay Vashist and Natalya Pavlovitch},
+  journal      = {NATO Science for Peace and Security Series, D: Information and Communication Security},
+  title        = {Learning using hidden information: Master-class learning},
+  year         = {2008},
+}
+
+@Article{2009Learning,
+  author  = {Vladimir Vapnik and Akshay Vashist and Natalya Pavlovitch},
+  journal = {Proceedings of the 2009 international joint conference on Neural Networks},
+  title   = {Learning using hidden information (learning with teacher)},
+  year    = {2009},
+}
+
+@Article{Vapnik2009,
+  author    = {Vladimir Vapnik and Akshay Vashist},
+  journal   = {Neural Networks},
+  title     = {A new learning paradigm: Learning using privileged information},
+  year      = {2009},
+}
+
+@Article{Flocks1987,
+  author  = {Reynolds, C. W.},
+  journal = {Proc. SIGGRAPH 87},
+  title   = {Flocks, herds and schools : a distributed behavior model},
+  year    = {1987},
+  volume  = {25},
+}
+
+@Article{vapniktalk2015,
+  author  = {Vladimir Vapnik},
+  journal = {Invited Talk},
+  title   = {Brute force and intelligent methods of learning},
+  year    = {2015},
+  url     = {http://stat.rutgers.edu/home/hcrane/seminar/vapnik.html},
+}
+
+@Article{wuxiaom2021,
+  author  = {吴晓明},
+  journal = {通识教育科学讲座},
+  title   = {科学哲学},
+  year    = {2021},
+}
+
+@Article{vapniktalk2022,
+  author  = {Vladimir Vapnik},
+  journal = {Invited Talk},
+  title   = {{Development of learning theory from Mathematical, Algorithmic and Philosophical Points of View}},
+  year    = {2022},
+}
+
+@Article{vapniktalk2022-02,
+  author  = {Vladimir Vapnik},
+  journal = {AFRL Invited Talk},
+  title   = {{Science of the Future Autonomous Research: What's the Next Big Questions in AI}},
+  year    = {2022},
+}
+
+@Article{vapnikinterview2014,
+  author  = {Vladimir Vapnik},
+  url = {https://www.learningtheory.org/learning-has-just-started-an-interview-with-prof-vladimir-vapnik/},
+  title   = {{“Learning Has Just Started” —— an interview with Prof. Vladimir Vapnik}},
+  journal = {Association for Computational Learning},
+  year    = {2014},
+}
+
+
+@Article{vapnik2020,
+  title = 	 {Complete statistical theory of learning: learning using statistical invariants},
+  author =   {Vladimir Vapnik and Rauf Izmailov},
+  journal = 	{Proceedings of the Ninth Symposium on Conformal and Probabilistic Prediction and Applications},
+  year = 	 {2020},
+}
+
+
+@Article{2006Hedging,
+  author  = {Alexander Gammerman and Vladimir Vovk},
+  journal = {The Computer journal},
+  title   = {Hedging predictions in machine learning},
+  year    = {2006},
+}
+
+@Book{vapnik1979,
+  author  = {Vladimir Vapnik},
+  publisher = {Moscow: Nauka},
+  title   = {{Estimation of Dependences Based on Empirical Data ({in Russian})}},
+  year    = {1979},
+}
+
+@Book{vapnik1982,
+  author  = {Vladimir Vapnik},
+  publisher = {New York: Springer-Verlag},
+  title   = {{Estimation of Dependences Based on Empirical Data}},
+  year    = {1982},
+}
+
+@Book{vapnik2023,
+  author  = {Vladimir Vapnik},
+  publisher = {手稿},
+  title   = {基于经验数据的相依关系估计 (席泽璞 译)},
+  year    = {2023},
+}
+
+@Book{Fourier1822,
+  author  = {Joseph Fourier},
+  publisher = {高等教育出版社},
+  title   = {The Analytical Theory of Heat (热的解析理论, 2016年影印版)},
+  year    = {1822},
+}
+
+@Book{vapnik1998,
+  author  = {Vladimir Vapnik},
+  publisher = {Wiley-Interscience},
+  title   = {{Statistical Learning Theory}},
+  year    = {1998},
+}
+
+@Book{vapnik1995,
+  author  = {Vladimir Vapnik},
+  address = {New York},
+  publisher = {Springer-Verlag},
+  title   = {{The Nature of Statistical Learning Theory}},
+  year    = {1995},
+}
+
+@Book{vovk2005algorithmic,
+  author  = {Vladimir Vovk and Alexander Gammerman and Glenn Shafer},
+  publisher = {Springer Science {\&} Business Media},
+  title   = {{Algorithmic Learning in a Random World}},
+  year    = {2005},
+}
+
+@Book{wangdefeng-xianxiangxue-2005,
+  author  = {王德峰},
+  publisher = {人民出版社},
+  title   = {{论马克思哲学对现象学原则的包含和超越}},
+  year    = {2005},
+}
+
+@Article{soton1999,
+	journal = {Sixteenth International Conference on Machine Learning (ICML-1999) (01/01/99)},
+	title = {Machine-Learning Applications of Algorithmic Randomness},
+	author = {Vladimir Vovk and Alexander Gammerman and Craig Saunders},
+	year = {1999},
+}
+
+@Article{Vovk1993,
+  author    = {Vladimir Vovk},
+  journal   = {Journal of the Royal Statistical Society: Series B (Methodological)},
+  title     = {A logic of probability, with application to the foundations of statistics},
+  year      = {1993},
+}
+
+@Article{Vapnik2019,
+  author    = {Vladimir Vapnik},
+  journal   = {Automation and Remote Control},
+  title     = {Complete statistical theory of learning},
+  year      = {2019},
+}
+
+@Article{Vapnik-context-2021,
+  author    = {Vladimir Vapnik},
+  url   = {https://www.afrl.af.mil/ACT3/(Accessed Mar. 14. 2023)},
+  title     = {{About the Autonomy Capability Team (ACT3)// Context: "The ACT3 engineering is addressing one of the critical concerns, that being, applying context during learning in a situation…such work requires multiple types of representations used in distinct types of diverse reasoning/learning…the Vapnik issue is, without context, the future of machine learning will reach an impasse…ACT3 is obtaining a new paradigm for integrated diverse learning machines working in collaboration…ACT3 provides a dynamic means for many different AI systems to work together providing different perspectives of context…this is the machine learning path to take…"}},
+  year      = {2021},
+}
+
+@Article{Vapnik-deep-2018,
+  author    = {Vladimir Vapnik},
+  url   = {https://www.afit.edu/en/news.cfm?article=0A6742(Accessed Mar. 15. 2019)},
+  title     = {{AFIT Distinguished Speaker Series Focuses on New Learning Paradigm// Context: "... LUSI describe a complete theory of learning and can be considered as a mathematical alternative to 'deep learning'. ..."}},
+  year      = {2018},
+}
+
+@INPROCEEDINGS{Bottou1994,
+  author={Bottou, L. and Cortes, C. and Denker, J.S. and Drucker, H. and Guyon, I. and Jackel, L.D. and LeCun, Y. and Muller, U.A. and Sackinger, E. and Simard, P. and Vapnik, V.},
+  booktitle={{Proceedings of the 12th IAPR International Conference on Pattern Recognition}}, 
+  title={Comparison of classifier methods: a case study in handwritten digit recognition}, 
+  year={1994},}
+
+
+@Article{Cybenko1989,
+  author    = {George Cybenko},
+  journal   = {Mathematics of control, signals and systems},
+  title     = {Approximation by superpositions of a sigmoidal function},
+  year      = {1989},
+}
+
+@Article{2003Universal,
+  author    = {Vladimir Vovk},
+  journal   = {Journal of Machine Learning Research},
+  title     = {A universal well-calibrated algorithm for on-line classification},
+  year      = {2003},
+}
+
+@article{Lei2015,
+  year = {2015},
+  author = {Jing Lei and Alessandro Rinaldo and Larry Wasserman},
+  title = {A conformal prediction approach to explore functional data},
+  journal = {Annals of Mathematics and Artificial Intelligence}
+}
+
+@Article{Saunders1999,
+  author    = {Craig Saunders and Alexander Gammerman and Vladimir Vovk},
+  journal   = {Journal of Machine Learning Research},
+  title     = {Transduction with confidence and credibility},
+  year      = {1999}
+}
+
+@article{MartinBarragan2014,
+  year = {2014},
+  author = {Belen Martin-Barragan and Rosa Lillo and Juan Romo},
+  title = {Interpretable support vector machines for functional data},
+  journal = {European journal of Operational Research}
+}
+
+@article{Rossi2006,
+  year = {2006},
+  author = {Fabrice Rossi and Nathalie Villa},
+  title = {Support vector machine for functional data classification},
+  journal = {Neurocomputing}
+}
+
+@article{Hyndman2007,
+  year = {2007},
+  author = {Rob J. Hyndman and Md. Shahid Ullah},
+  title = {Robust forecasting of mortality and fertility rates: A functional data approach},
+  journal = {Computational Statistics {\&} Data Analysis}
+}
+
+@article{Victor2018,
+Author = {Victor Chernozhukov and Kaspar Wuthrich and Yinchu Zhu},
+Title = {Exact and Robust Conformal Inference Methods for Predictive Machine Learning With Dependent Data},
+Year = {2018},
+journal = {arXiv:1802.06300},
+}
+
+@article{Xu2021,
+  title = 	 {Conformal prediction interval for dynamic time-series},
+  author =       {Xu, Chen and Xie, Yao},
+  year = 	 {2021},
+  journal = 	 {Proceedings of Machine Learning Research},
+}
+
+@article{Dashevskiy2011,
+  year = {2011},
+  author = {Mikhail Dashevskiy and Zhiyuan Luo},
+  title = {Time series prediction with performance guarantee},
+  journal = {{IET} Communications}
+}
+
+@Book{Husserl2019,
+  author    = {Edmund Husserl},
+  title     = {Logic and general theory of science},
+  year      = {2019},
+  publisher = {Springer International Publishing},
+}
+
+@Book{Tikhonov1977,
+  author    = {Andrey N. Tikhonov and Vasiliy Y. Arsenin},
+  translator = {Fritz John},
+  title     = {{Solutions of ill-posed problems}},
+  year      = {1977},
+  publisher = {John Wiley \& Sons},
+}
+
+@Article{Lapin2014,
+  author    = {Maksim Lapin and Matthias Hein and Bernt Schiele},
+  journal   = {Neural Networks},
+  title     = {Learning using privileged information: {SVM+}~and weighted {SVM}},
+  year      = {2014},
+}
+
+
+@Article{Vapnik1978,
+  author    = {Vladimir Vapnik and A.~R.~Stefanyuk},
+  journal   = {Automation and Remote Control},
+  title     = {Nonparametric methods for restoring the probability densities},
+  year      = {1978},
+}
+
+
+@Article{Li2016,
+  author  = {Wen Li and Dengxin Dai and Mingkui Tan and Dong Xu and Luc Van Gool},
+  journal = {2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  title   = {Fast algorithms for linear and kernel {SVM+}},
+  year    = {2016},
+}
+
+@Article{Gaiduchenko2019,
+  author    = {Nikolai E. Gaiduchenko and Pavel A. Gritsyk},
+  journal = {2019 International Conference on Engineering and Telecommunication ({EnT})},
+  title     = {Hypersonic vehicle trajectory classification using convolutional neural network},
+  year      = {2019},
+}
+
+@Article{Shi2020,
+  author    = {Yang Shi and Zhenbo Wang},
+  title     = {A deep learning-based approach to real-time trajectory optimization for hypersonic vehicles},
+  year      = {2020},
+  journal = {American Institute of Aeronautics and Astronautics},
+}
+
+@Article{Bartusiak2021,
+  author    = {Emily R. Bartusiak and Nhat X. Nguyen and Moses W. Chan and Mary L. Comer and Edward J. Delp},
+  booktitle = {2021 {IEEE} Aerospace Conference (50100)},
+  title     = {A machine learning approach to classify hypersonic vehicle trajectories},
+  year      = {2021},
+}
+
+@Article{Kokoszka2017,
+  author    = {Piotr Kokoszka and Matthew Reimherr},
+  journal = {Chapman and Hall/{CRC}},
+  title     = {Introduction to Functional Data Analysis},
+  year      = {2017},
+}
+
+@Article{Ramsay2009,
+  author    = {James Ramsay and Giles Hooker and Spencer Graves},
+  journal = {Springer New York},
+  title     = {Functional Data Analysis with R and {MATLAB}},
+  year      = {2009},
+}
+
+@Article{Wang2016,
+  author    = {Jane-Ling Wang and Jeng-Min Chiou and Hans-Georg M\"{u}ller},
+  journal   = {Annual Review of Statistics and Its Application},
+  title     = {Functional Data Analysis},
+  year      = {2016},
+}
+
+@Article{Darabi2020,
+  author    = {Nadiyeh Darabi and S. Mohammad E. Hosseini-Nasab},
+  journal   = {Statistics},
+  title     = {Projection-based classification for functional data},
+  year      = {2020},
+}
+
+@Article{xie2021,
+  author  = {Yangfan Xie and Xuebin Zhuang and Zepu Xi and Hongbo Chen},
+  journal = {IEEE Access},
+  title   = {Dual-channel and bidirectional neural network for hypersonic glide vehicle trajectory prediction},
+  year    = {2021},
+}
+
+@article{Yu2021,
+  year = {2021},
+  publisher = {Oxford University Press ({OUP})},
+  author = {Yu Yu and Xiang Xie},
+  title = {Privacy-preserving computation in the post-quantum era},
+  journal = {National Science Review}
+}
+
+@article{Gong2021,
+  year = {2021},
+  author = {Weiyuan Gong and Dong-Ling Deng},
+  title = {Universal Adversarial Examples and Perturbations for Quantum Classifiers},
+  journal = {National Science Review}
+}
+
+@article{Chen2020,
+  year = {2020},
+  author = {Chuan Chen and Rui Li and Lin Shu and Zhiyu He and Jining Wang and Chengming Zhang and Huanfei Ma and Kazuyuki Aihara and Luonan Chen},
+  title = {Predicting future dynamics from short-term time series using an Anticipated Learning Machine},
+  journal = {National Science Review}
+}
+
+@article{Wang2017,
+  year = {2017},
+  author = {Ling Wang},
+  title = {Mu-ming Poo: China Brain Project and the future of Chinese neuroscience},
+  journal = {National Science Review}
+}
+
+@article{Poggi2017,
+  year = {2017},
+  author = {Matteo Poggi and Fabio Tosi and Stefano Mattoccia},
+  title = {Quantitative Evaluation of Confidence Measures in a Machine Learning World},
+  journal = {2017 {IEEE} International Conference on Computer Vision ({ICCV})}
+}
+
+@article{Jakob2021,
+Author = {Jakob Gawlikowski and Cedrique Rovile Njieutcheu Tassi and Mohsin Ali and Jongseok Lee and Matthias Humt and Jianxiang Feng and Anna Kruspe and Rudolph Triebel and Peter Jung and Ribana Roscher and Muhammad Shahzad and Wen Yang and Richard Bamler and Xiao Xiang Zhu},
+Title = {A Survey of Uncertainty in Deep Neural Networks},
+Year = {2021},
+journal = {arXiv:2107.03342},
+}
+
+
+@article{Nouretdinov2013,
+  year = {2013},
+  author = {Ilia Nouretdinov and Dmitry Devetyarov and Volodya Vovk and Brian Burford and Stephane Camuzeaux and Aleksandra Gentry-Maharaj and Ali Tiss and Celia Smith and Zhiyuan Luo and Alexey Chervonenkis and Rachel Hallett and Mike Waterfield and Rainer Cramer and John F. Timms and Ian Jacobs and Usha Menon and Alex Gammerman},
+  title = {Multiprobabilistic prediction in early medical diagnoses},
+  journal = {Annals of Mathematics and Artificial Intelligence}
+}
+
+@article{Valiant1984,
+author = {Valiant, L. G.},
+title = {A Theory of the Learnable},
+year = {1984},
+journal = {Commun. ACM},
+}
+
+@Article{Papadopoulos2007,
+  year = {2007},
+  author = {Harris Papadopoulos and Volodya Vovk and Alex Gammermam},
+  title = {Conformal Prediction with Neural Networks},
+  journal = {19th {IEEE} International Conference on Tools with Artificial Intelligence({ICTAI} 2007)}
+}
+
+@Article{Papadopoulos2008,
+  year = {2008},
+  author = {Harris Papadopoulos},
+  title = {Inductive Conformal Prediction: Theory and Application to Neural Networks},
+  journal = {Tools in Artificial Intelligence},
+}
+
+@Article{Vineeth2014,
+  year = {2014},
+  title = {Conformal Prediction for Reliable Machine Learning},
+  author = {Vineeth Balasubramanian and Shen-Shyang Ho and Vladimir Vovk},
+  journal = {Morgan Kaufmann},
+}
+
+@Article{Janette2022,
+  year = {2022},
+  title = {Conformal Prediction in Clinical Medical Sciences},
+  author = {Janette Vazquez and Julio C. Facelli},
+  journal = {Journal of Healthcare Informatics Research},
+}
+
+@Article{Melluish2011,
+author={Melluish, Thomas and Saunders, Craig and Nouretdinov, Ilia and Vovk, Volodya},
+title={Comparing the Bayes and Typicalness Frameworks},
+journal={Machine Learning: ECML 2001},
+year={2001},
+}
+
+@article{Gelman2017,
+  year = {2017},
+  author = {Andrew Gelman and Christian Hennig},
+  title = {Beyond subjective and objective in statistics},
+  journal = {Journal of the Royal Statistical Society: Series A (Statistics in Society)}
+}
+
+@article{Moore2000StatisticsAM,
+  title={Statistics and Mathematics: Tension and Cooperation},
+  author={David S. Moore and George W. Cobb},
+  journal={The American Mathematical Monthly},
+  year={2000},
+}
+
+@Article{Luc2014,
+  title = 	 {{PAC-Bayesian Theory for Transductive Learning}},
+  author = 	 {B\'egin, Luc and Germain, Pascal and Laviolette, François and Roy, Jean-Francis},
+  journal = 	 {Proceedings of the Seventeenth International Conference on Artificial Intelligence and Statistics},
+  year = 	 {2014},
+}
+
+@article{Richards2019,
+  year = {2019},
+  author = {Blake A. Richards and Timothy P. Lillicrap and Philippe Beaudoin and Yoshua Bengio and Rafal Bogacz and Amelia Christensen and Claudia Clopath and Rui Ponte Costa and Archy de Berker and Surya Ganguli and Colleen J. Gillon and Danijar Hafner and Adam Kepecs and Nikolaus Kriegeskorte and Peter Latham and Grace W. Lindsay and Kenneth D. Miller and Richard Naud and Christopher C. Pack and Panayiota Poirazi and Pieter Roelfsema and Jo{\~{a}}o Sacramento and Andrew Saxe and Benjamin Scellier and Anna C. Schapiro and Walter Senn and Greg Wayne and Daniel Yamins and Friedemann Zenke and Joel Zylberberg and Denis Therien and Konrad P. Kording},
+  title = {A deep learning framework for neuroscience},
+  journal = {Nature Neuroscience}
+}
+
+
+@article{Harris2014,
+author = {Harris Papadopoulos and Vladimir Vovk and Alex Gammerman},
+title = {Regression Conformal Prediction with Nearest Neighbours},
+year = {2014},
+journal = {Journal Of Artificial Intelligence Research},
+}
+
+@article{Li2015,
+  year = {2015},
+  author = {Guanghua Li and Hongbo Zhang and Guojian Tang},
+  title = {Maneuver characteristics analysis for hypersonic glide vehicles},
+  journal = {Aerospace Science and Technology}
+}
+
+@article{shafer08a,
+  author  = {Glenn Shafer and Vladimir Vovk},
+  title   = {A Tutorial on Conformal Prediction},
+  journal = {Journal of Machine Learning Research},
+  year    = {2008},
+}
+
+
+@article{Thomas1989,
+ author = {Thomas M. Cover and Peter Gacs and Robert M. Gray},
+ journal = {The Annals of Probability},
+ title = {Kolmogorov's Contributions to Information Theory and Algorithmic Complexity},
+ year = {1989}
+}
+
+@article{Li2008,
+  year = {2008},
+  journal = {Springer New York},
+  author = {Ming Li and Paul Vit{\'{a}}nyi},
+  title = {An Introduction to Kolmogorov Complexity and Its Applications}
+}
+
+@article{MartinLf1966,
+  year = {1966},
+  author = {Per Martin-L\"{o}f},
+  title = {The definition of random sequences},
+  journal = {Information and Control}
+}
+
+@Article{Kolmogorov1983,
+  author  = {Andrei N. Kolmogorov},
+  journal = {Russian Math. Surveys},
+  title   = {Combinatorial foundations of information theory and the calculus of probabilities},
+  year = {1983}
+}
+
+@article{Kolmogorov1968,
+title = {Three approaches to the quantitative definition of information},
+author={Andrei N. Kolmogorov},
+year = {1968},
+journal = {International Journal of Computer Mathematics}
+}
+
+@article{Kolmogorov1963,
+title = {On the tables of Random Numbers},
+author={Andrei N. Kolmogorov},
+year = {1963},
+journal = {The Indian Journal of Statistics, Series A}
+}
+
+@article{Chung2018,
+  year = {2018},
+  author = {Soon-Jo Chung and Aditya Avinash Paranjape and Philip Dames and Shaojie Shen and Vijay Kumar},
+  title = {A Survey on Aerial Swarm Robotics},
+  journal = {{IEEE} Transactions on Robotics},
+}
+
+@article{Hamann2018,
+  year = {2018},
+  author = {Heiko Hamann},
+  title = {Swarm Robotics: A Formal Approach},
+  journal = {Springer}
+}
+
+@article{Brown2014,
+author = {Brown, Daniel S. and Goodrich, Michael A.},
+title = {Limited Bandwidth Recognition of Collective Behaviors in Bio-Inspired Swarms},
+year = {2014},
+journal = {International Foundation for Autonomous Agents and Multiagent Systems},
+}
+
+@article{Brown2016DiscoveryAE,
+  title={Discovery and Exploration of Novel Swarm Behaviors Given Limited Robot Capabilities},
+  author={Daniel S. Brown and Ryan Turner and Oliver Hennigh and Steven Loscalzo},
+  journal={DARS},
+  year={2016}
+}
+
+@article{Berger2016,
+  year = {2016},
+  author = {Matthew Berger and Lee M. Seversky and Daniel S. Brown},
+  title = {Classifying swarm behavior via compressive subspace learning},
+  journal = {2016 {IEEE} International Conference on Robotics and Automation ({ICRA})},
+}
+
+@article{Olaronke2020,
+  year = {2020},
+  author = {Iroju Olaronke and Ikono Rhoda and Ishaya Gambo and Ojerinde Oluwaseun and Olaleke Janet},
+  title = {A Systematic Review of Swarm Robots},
+  journal = {Current Journal of Applied Science and Technology},
+}
+
+@article{Schranz2020,
+  year = {2020},
+  author = {Melanie Schranz and Martina Umlauft and Micha Sende and Wilfried Elmenreich},
+  title = {Swarm Robotic Behaviors and Current Applications},
+  journal = {Frontiers in Robotics and {AI}},
+}
+
+@article{Hamann2018,
+  year = {2018},
+  author = {Heiko Hamann},
+  title = {Swarm Robotics: A Formal Approach},
+  journal = {Springer}
+}
+
+@article{Chung2018,
+  year = {2018},
+  author = {Soon-Jo Chung and Aditya Avinash Paranjape and Philip Dames and Shaojie Shen and Vijay Kumar},
+  title = {A Survey on Aerial Swarm Robotics},
+  journal = {{IEEE} Transactions on Robotics},
+}
+
+@article{Vovk2003,
+year = {2003},
+author = {Vladimir Vovk and Ilia Nouretdinov and Alex Gammerman},
+title = {Testing Exchangeability On-Line},
+journal = {Proc. 20th Int. Conf. on Machine Learning},
+}
+
+@article{Vovk2012,
+year = {2012},
+author = {Valentina Fedorova and Alex Gammerman and Ilia Nouretdinov and Vladimir Vovk},
+title = {Plug-in martingales for testing exchangeability on-line},
+journal = {Proc. 29th Int. Conf. on Machine Learning},
+}
+
+@article{Thomas2021,
+  year = {2021},
+  author = {Thomas Lymburn and Shannon D. Algar and Michael Small and Thomas J\"{u}ngling},
+  title = {Reservoir computing with swarms},
+  journal = {Chaos: An Interdisciplinary Journal of Nonlinear Science},
+}
+
+@Book{Doob1984,
+year = {1984},
+author = {Joseph L. Doob},
+title = {{Classical Potential Theory and Its Probabilistic Counterpart}},
+publisher = {New York: Springer-Verlag},
+}
+
+@article{scikit-learn,
+ title={Scikit-learn: Machine Learning in {P}ython},
+ author={Pedregosa, F. and Varoquaux, G. and Gramfort, A. and Michel, V.
+         and Thirion, B. and Grisel, O. and Blondel, M. and Prettenhofer, P.
+         and Weiss, R. and Dubourg, V. and Vanderplas, J. and Passos, A. and
+         Cournapeau, D. and Brucher, M. and Perrot, M. and Duchesnay, E.},
+ journal={Journal of Machine Learning Research},
+ year={2011}
+}
+
+
+@article{Brown2014,
+author = {Brown, Daniel S. and Goodrich, Michael A.},
+title = {Limited Bandwidth Recognition of Collective Behaviors in Bio-Inspired Swarms},
+year = {2014},
+journal = {International Foundation for Autonomous Agents and Multiagent Systems},
+}
+
+@article{Maruyama2019,
+author = {Norihiro Maruyama and Daichi Saito and Yasuhiro Hashimoto and  Takashi Ikegami},
+title = {Dynamic organization of flocking behaviors in a large-scale boids model},
+year = {2019},
+journal = {Journal of Computational Social Science}
+}
+
+@article{Ho2005,
+author = {Ho, Shen-Shyang},
+year = {2005},
+title = {A martingale framework for concept change detection in time-varying data streams},
+journal = {Proc. 22th Int. Conf. on Machine Learning.}
+}
+
+@article{Ho2012,
+author = {Ho, Shen-Shyang},
+year = {2012},
+title = {On the Detection of Concept Changes in Time-Varying Data Stream by Testing Exchangeability},
+journal = {Arxiv:1207.1379}
+}
+
+@article{Ho2019,
+author = {Ho, Shen-Shyang and Schofield, Matthew and Sun, Bo and Snouffer, Jason and Kirschner, Jean},
+year = {2019},
+title = {A Martingale-Based Approach for Flight Behavior Anomaly Detection},
+journal = {Proc. 20th Int. Conf. on Mobile Data Management}
+}
+
+@article{Johansson2013,
+  year = {2013},
+  author = {Ulf Johansson and Henrik Bostrom and Tuve Lofstrom},
+  title = {Conformal Prediction Using Decision Trees},
+  journal = {2013 {IEEE} 13th International Conference on Data Mining},
+}
+
+@article{Boosting2012,
+  year = {2012},
+  author = {Robert E. Schapire and Yoav Freund},
+  title = {{Boosting: Foundations and Algorithms}},
+  journal = {{The MIT Press, Cambridge, Massachusetts London, England}}
+}
+
+@article{Bottou1994,
+  author = {L. Bottou and C. Cortes and J.S. Denker and H. Drucker and I. Guyon and L.D. Jackel and Y. LeCun and U.A. Muller and E. Sackinger and P. Simard and V. Vapnik},
+  title = {Comparison of classifier methods: a case study in handwritten digit recognition},
+  journal = {Proceedings of the 12th {IAPR} International Conference on Pattern Recognition},
+  year = {1994},
+}
+
+@article{Laurent2009,
+  year = {2009},
+  author = {Bienvenu, L. and Shen, A.},
+  title = {{Algorithmic information theory and martingales.}},
+  journal = {{arxiv:0906.2614}}
+}
+
+@article{Bienvenu2009OnTH,
+  year = {2009},
+  author = {Bienvenu~ L., Shafer ~ G., and Shen ~ A.},
+  title = {{On the history of martingales in the study of randomness.}},
+  journal = {Electronic Journal for History of Probability and Statistics}
+}
+
+@article{Doob1984,
+  year = {1984},
+  author = {Doob, J.~L.},
+  title = {{Classical potential theory and its probabilistic counterpart}},
+  journal = {{Berlin Heidelberg New York: Springer-Verlag}}
+}
+
+@article{vovk2001,
+  year = {2001},
+  author = {Vladimir Vovk},
+  title = {{Competitive on-line statistics}},
+  journal = {International Statistical Review}
+}
+
+@article{vovk2021,
+  year = {2021},
+  author = {Vladimir Vovk},
+  title = {Testing for concept shift online},
+  journal = {working paper 31}
+}
+
+@article{Johansson2017,
+  year = {2017},
+  author = {Ulf~Johansson, Henrik~Linusson, T.~L. and Bostr{\"o}m, H.},
+  title = {Model-agnostic nonconformity functions for conformal classification},
+  journal = {2017 International Joint Conference on Neural Networks
+  (IJCNN)}
+}
+
+@article{UCI,
+  year = {2015},
+  author = {Frank, A. and Asuncion, A.},
+  title = {{Machine Learning Repository}},
+  journal = {\url{https://archive.ics.uci.edu/ml/index.php}}
+}
+
+@article{scikit-learn,
+  year = {2011},
+  author = {Pedregosa, F., Varoquaux, G., Gramfort, A., Michel, V., Thirion, B., Grisel, O., Blondel, M., Prettenhofer, P., Weiss, R., Dubourg, V., Vanderplas, J., Passos, A., Cournapeau, D., Brucher, M., Perrot, M., and Duchesnay, E.},
+  title = {{Scikit-learn: Machine learning in {P}ython}},
+  journal = {Journal of Machine Learning Research}
+}
+
+@article{Schranz2020,
+  year = {2020},
+  author = {Melanie Schranz and Martina Umlauft and Micha Sende and Wilfried Elmenreich},
+  title = {Swarm Robotic Behaviors and Current Applications},
+  journal = {Frontiers in Robotics and {AI}}
+}
+
+@article{Agarwal2013,  
+author={Agarwal, Priyanshu and et al.},
+journal={Robotics: Science and Systems VIII},
+title={What Types of Interactions Do Bio-Inspired Robot Swarms and Flocks Afford a Human?},
+year={2013},
+}
+
+@article{Lerner1972,
+title = {A “Crisis” In The Theory of Pattern Recognition},
+journal = {Frontiers of Pattern Recognition},
+year = {1972},
+url = {https://www.sciencedirect.com/science/article/pii/B978012737140550021X},
+author = {Alexander Lerner},
+}
+
+@article{Schranz2020,
+  year = {2020},
+  author = {Melanie Schranz and Martina Umlauft and Micha Sende and Wilfried Elmenreich},
+  title = {Swarm Robotic Behaviors and Current Applications},
+  journal = {Frontiers in Robotics and {AI}}
+}
+
+@article{Hamann2018,
+  year = {2018},
+  author = {Heiko Hamann},
+  title = {Swarm Robotics: A Formal Approach},
+  journal = {Springer}
+}
+
+@article{Chung2018,
+  year = {2018},
+  author = {Soon-Jo Chung and Aditya Avinash Paranjape and Philip Dames and Shaojie Shen and Vijay Kumar},
+  title = {A Survey on Aerial Swarm Robotics},
+  journal = {{IEEE} Transactions on Robotics}
+}
+
+@article{Vovk2003,
+year = {2003},
+author = {Vladimir Vovk and Ilia Nouretdinov and Alex Gammerman},
+title = {Testing Exchangeability On-Line},
+journal = {Proc. 20th Int. Conf. on Machine Learning},
+}
+
+@article{Vovk2012,
+year = {2012},
+author = {Valentina Fedorova and Alex Gammerman and Ilia Nouretdinov and Vladimir Vovk},
+title = {Plug-in martingales for testing exchangeability on-line},
+journal = {Proc. 29th Int. Conf. on Machine Learning},
+}
+
+@article{Thomas2021,
+  year = {2021},
+  author = {Thomas Lymburn and Shannon D. Algar and Michael Small and Thomas J\"{u}ngling},
+  title = {Reservoir computing with swarms},
+  journal = {Chaos},
+}
+
+@article{Olaronke2020,
+  year = {2020},
+  author = {Iroju Olaronke and Ikono Rhoda and Ishaya Gambo and Ojerinde Oluwaseun and Olaleke Janet},
+  title = {A Systematic Review of Swarm Robots},
+  journal = {Current Journal of Applied Science and Technology}
+}
+
+@article{vapnik1964,
+  year = {1964},
+  author = {Vladimir N. Vapnik and Alexey Ya. Chervonenkis},
+  title = {A class of algorithms for pattern recognition learning},
+  journal = {Avtomat. i Telemekh.},
+}
+
+@article{vapnik1963,
+  year = {1963},
+  author = {Vladimir N. Vapnik and Alexey Ya. Chervonenkis},
+  title = {Recognition of Patterns with help of Generalized Portraits},
+  journal = {Avtomat. i Telemekh.},
+}
+
+@article{vapnik1964On,
+  year = {1964},
+  author = {Vladimir N. Vapnik and Alexey Ya. Chervonenkis},
+  title = {On a perceptron class},
+  journal = {Avtomat. i Telemekh.},
+}
+
+
+
+@article{vapnik1962,
+  year = {1963},
+  author = {Vladimir N. Vapnik and Alexey Ya. Lerner},
+  title = {Recognition of Patterns with help of Generalized Portraits},
+  journal = {Avtomat. i Telemekh.},
+}
+
+
+@Book{Vineeth2019,
+  year = {2019},
+  author = {Vineeth N. Balasubramanian and Shen-Shyang Ho and Vladimir Vovk},
+  title = {{Conformal Prediction for Reliable Machine Learning, Theory, Adaptations and Applications}},
+  publisher = {Morgan Kaufmann}
+}
+
+
+@article{Walker2014,
+  year = {2014},
+  author = {Phillip Walker and Saman Amirpour Amraii and Nilanjan Chakraborty and Michael Lewis and Katia Sycara},
+  title = {Human control of robot swarms with dynamic leaders},
+  journal = {2014 {IEEE}/{RSJ} International Conference on Intelligent Robots and Systems}
+}
+
+@article{Izmailov2018,
+	year = {2018},
+	author = {Rauf Izmailov and Peter Lin and Chumki Basu},
+	title = {{Automatic Feature Selection in Learning Using Privileged Information}},
+	journal = {ICML 2018 AutoML Workshop}
+}
+
+@article{Shiao2014,
+	year = {2014},
+	author = {Han-Tai Shiao and Vladimir Cherkassky},
+	title = {{Learning Using Privileged Information (LUPI) for Modeling Survival Data}},
+	journal = {2014 International Joint Conference on Neural Networks (IJCNN)}
+}
+
+@article{Izmailov2017,
+	year = {2017},
+	author = {Rauf Izmailov and Blerta Lindqist and Peter Lin},
+	title = {{Feature Selection in Learning Using Privileged Information}},
+	journal = {2017 {IEEE International Conference on Data Mining Workshops}}
+}
+
+@article{Vapnik2009,
+  author    = {Vladimir Vapnik and Akshay Vashist},
+  journal   = {Neural Networks},
+  title     = {A new learning paradigm: Learning using privileged information},
+  year      = {2009},
+}
+
+@Book{Vapnik2006,
+  author    = {Vladimir Vapnik},
+  publisher = {Springer New York},
+  title     = {{Estimation of Dependences Based on Empirical Data}},
+  year      = {2006},
+}
+
+@article{vapniktalk2015,
+  author  = {Vladimir Vapnik},
+  journal = {Invited Talk},
+  title   = {Brute force and intelligent methods of learning},
+  year    = {2015},
+  url     = {http://stat.rutgers.edu/home/hcrane/seminar/vapnik.html},
+}
+
+@Book{vapnik2015,
+  author  = {Vladimir Vapnik and Rauf Izmailov},
+  publisher = {In: Gammerman A., Vovk V., Papadopoulos H. (eds) Statistical Learning and Data Sciences. SLDS 2015.},
+  title   = {Learning with intelligent teacher: similarity control and knowledge transfer},
+  year    = {2015},
+}
+
+@article{Vapnik2021,
+  author    = {Vladimir Vapnik and Rauf Izmailov},
+  journal   = {Pattern Recognition},
+  title     = {Reinforced {SVM} method and memorization mechanisms},
+  year      = {2021},
+}
+
+
+@article{Pechyony2010,
+ author = {Dmitry Pechyony and Vladimir Vapnik},
+ journal = {Advances in Neural Information Processing Systems},
+ title = {On the Theory of Learnining with Privileged Information},
+ year = {2010}
+}
+
+@article{Tunstrm2013,
+year = {2013},
+author = {Kolbj{\o}rn Tunstr{\o}m and Yael Katz and Christos C. Ioannou and Cristi{\'{a}}n Huepe and Matthew J. Lutz and Iain D. Couzin},
+title = {{Collective States, Multistability and Transitional Behevior in Schooling Fish}},
+journal = {{PLoS Computational Biology}}
+}
+
+@article{Michael2014,
+year = {2014},
+author = {Michael Rubenstein and Alejandro Cornejo and Radhika Nagpal},
+title = {{Programmable self-assembly in a thousand-robot swarm}},
+journal = {Science}}
+
+@article{Vrigkas2017,
+	year = {2017},
+	author = {Michalis Vrigkas and Evangelos Kazakos and Christophoros Nikou and Ioannis A. Kakadiaris},
+	title = {{Inferring Human Activities Using Robust Privileged Probabilistic Learning}},
+	journal = {2017 IEEE International Conference on Computer Vision Workshops (ICCVW)}
+}
+
+@article{Brown-Human-swarm2014,
+  year = {2014},
+  author = {Daniel S. Brown and Sean C. Kerman and Michael A. Goodrich},
+  title = {Human-swarm interactions based on managing attractors},
+  journal = {Proceedings of the 2014 {ACM}/{IEEE} international conference on Human-robot interaction}
+}
+
+@article{Vapnik-similary-2015,
+  year = {2015},
+  author = {Vladimir Vapnik and Rauf Izmailov},
+  title = {{Learning Using Privileged Information: Similarity Control and Knowledge Transfer}},
+  journal = {Journal of Machine Learning Research}
+}
+
+@article{Corfield-Vapnik-2009,
+  year = {2009},
+  author = {David Corfield and Bernhard Sch\"{o}lkopf and Vladimir Vapnik},
+  title = {{Falsificationism and Statistical Learning Theory: Comparing the Popper and Vapnik-Chervonenkis Dimensions}},
+  journal = {Journal for General Philosophy of Science}
+}
+
+@Book{Vineeth2019,
+  year = {2019},
+  publisher = {Vineeth N. Balasubramanian and Shen-Shyang Ho and Vladimir Vovk},
+  title = {{Conformal Prediction for Reliable Machine Learning, Theory, Adaptations and Applications}},
+  journal = {Morgan Kaufmann},
+}
+
+@article{Walker2014,
+  year = {2014},
+  author = {Phillip Walker and Saman Amirpour Amraii and Nilanjan Chakraborty and Michael Lewis and Katia Sycara},
+  title = {Human control of robot swarms with dynamic leaders},
+  journal = {2014 {IEEE}/{RSJ} International Conference on Intelligent Robots and Systems}
+}
+
+@article{Becker2014,
+  author    = {Aaron T. Becker and Chris Ertel and James McLurkin},
+  title     = {Crowdsourcing swarm manipulation experiments: {A} massive online user study with large swarms of simple robots},
+  journal = {2014 {IEEE} International Conference on Robotics and Automation, {ICRA}},
+  year      = {2014},
+}
+
+@article{Lee2000,
+author = {Leo Breiman},
+journal = {Statist. Sci.},
+title = {Statistical Modeling: The Two Cultures (with comments and a rejoinder by the author)},
+year = {2001}
+}
+
+@article{Efron2019,
+author = {Bradley Efron},
+journal = { Journal of the American Statistical Association},
+title = {Prediction, Estimation, and Attribution},
+year = {2019}
+}
+
+@article{Andrew2017,
+author = {Andrew Gelman and Christian Hennig},
+journal = {Journal of the Royal Statistical Society: Series A},
+title = {Beyond subjective and objective in statistics},
+year = {2017}
+}
+
+@article{Shafer2021,
+author = {Glenn Shafer},
+journal = {International Journal of Approximate Reasoning},
+title = {``So much data. Who needs probability?'' Have we been here before?},
+year = {2021}
+}
+
+@Book{Alexey2013,
+author = {Alexey Ya. Chervonenkis},
+publisher = {{Empirical Inference, Festschrift in Honor of Vladimir N. Vapnik}},
+title = {{Early History of Support Vector Machines}},
+year = {2013}
+}
+
+
+
+@Book{Alexey2015,
+author = {Alexey Ya. Chervonenkis},
+journal = {{Measures of Complexity, Festschrift for Alexey Chervonenkis}},
+title = {{Chervonenkis’s recollections}},
+publisher = {Vladimir Vovk, Harris Papadopoulos, and Alex Gammerman, editors. Springer, Berlin.},
+year = {2015}
+}
+
+@Book{Novoseltsev2015,
+author = {Vasiy N. Novoseltsev},
+journal = {{Measures of Complexity, Festschrift for Alexey Chervonenkis}},
+title = {{Institute of Control Science Through the Lens of VC Dimension}},
+publisher = {Vladimir Vovk, Harris Papadopoulos, and Alex Gammerman, editors. Springer, Berlin.},
+year = {2015}
+}
+
+@article{vapnik1968,
+author = {Vladimir N. Vapnik and Alexey Ya. Chernovenkis},
+journal = {Soviet Mathematics Doklady},
+year = {1968},
+title = {{Uniform Convergence of Frequencies of Occurance of Events to Their Probabilities}}
+}
+
+@article{vapnik1971,
+author = {Vladimir N. Vapnik and Alexey Ya. Chernovenkis},
+journal = {Theory of Probability and Its Applications},
+year = {1971},
+title = {{On the Uniform Convergence of Relative Frequencies of Events to Their Probabilities}},
+}
+
+@Book{vapnik1974,
+author = {Vladimir N. Vapnik and Alexey Ya. Chernovenkis},
+publisher = {Moscow: Nauka},
+year = {1974},
+title = {Teoriya raspoznavaniya obrazov ({T}heory of {P}attern {R}ecognition)}
+}
+
+
+@article{2003Universal,
+  author    = {Vladimir Vovk},
+  journal   = {Journal of Machine Learning Research},
+  title     = {A universal well-calibrated algorithm for on-line classification},
+  year      = {2003},
+}
+
+@article{Lei2015,
+  year = {2015},
+  author = {Jing Lei and Alessandro Rinaldo and Larry Wasserman},
+  title = {A conformal prediction approach to explore functional data},
+  journal = {Annals of Mathematics and Artificial Intelligence}
+}
+
+@article{Saunders1999,
+  author    = {Craig Saunders and Alexander Gammerman and Vladimir Vovk},
+  journal   = {Journal of Machine Learning Research},
+  title     = {Transduction with confidence and credibility},
+  year      = {1999},
+}
+
+@article{Vovk-Mondrian-2003,
+author = {Vladimir Vovk and David Lindsay and Ilia Nouretdinov and Alex Gammerman},
+journal = {On-line Compression Modelling Project, Working Paper 4},
+year = {2003},
+url = {http://vovk.net/kp},
+title = {Mondrian Confidence Machine}
+}
+
+@article{gammerman1998,
+author = {Alexander Gammerman and Vladimir Vovk and Vladimir Vapnik},
+journal = {Proc. of the 14th Conf. on Uncertainty in artificial intelligence},
+year = {1998},
+title = {Learning by transduction}
+}
+
+@Book{Vovk2013,
+author={Vovk, Vladimir},
+editor={Bernhard Sch{\"o}lkopf and Zhiyuan Luo and Vladimir Vovk},
+title={Kernel Ridge Regression},
+year={2013},
+publisher = {Empirical Inference: Festschrift in Honor of Vladimir N. Vapnik},
+}
+
+
+@article{MartinBarragan2014,
+  year = {2014},
+  author = {Belen Martin-Barragan and Rosa Lillo and Juan Romo},
+  title = {Interpretable support vector machines for functional data},
+  journal = {European Journal of Operational Research}
+}
+
+@article{Hyndman2007,
+  year = {2007},
+  author = {Rob J. Hyndman and Md. Shahid Ullah},
+  title = {Robust forecasting of mortality and fertility rates: A functional data approach},
+  journal = {Computational Statistics {\&} Data Analysis}
+}
+
+
+@Book{Husserl2019,
+  author    = {Edmund Husserl},
+  title     = {Logic and general theory of science},
+  year      = {2019},
+  publisher = {Springer International Publishing},
+}
+
+@article{Lapin2014,
+  author    = {Maksim Lapin and Matthias Hein and Bernt Schiele},
+  journal   = {Neural Networks},
+  title     = {Learning using privileged information: {SVM+}~and weighted {SVM}},
+  year      = {2014},
+}
+
+@article{Li2016,
+  author  = {Wen Li and Dengxin Dai and Mingkui Tan and Dong Xu and Luc Van Gool},
+  journal = {2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)},
+  title   = {Fast algorithms for linear and kernel {SVM+}},
+  year    = {2016},
+}
+
+@article{Gaiduchenko2019,
+  author    = {Nikolai E. Gaiduchenko and Pavel A. Gritsyk},
+  booktitle = {2019 International Conference on Engineering and Telecommunication ({EnT})},
+  title     = {Hypersonic vehicle trajectory classification using convolutional neural network},
+  year      = {2019},
+}
+
+@article{Shi2020,
+  author    = {Yang Shi and Zhenbo Wang},
+  booktitle = {{AIAA} Scitech 2020 Forum},
+  title     = {A deep learning-based approach to real-time trajectory optimization for hypersonic vehicles},
+  year      = {2020},
+}
+
+@article{Bartusiak2021,
+  author    = {Emily R. Bartusiak and Nhat X. Nguyen and Moses W. Chan and Mary L. Comer and Edward J. Delp},
+  booktitle = {2021 {IEEE} Aerospace Conference (50100)},
+  title     = {A machine learning approach to classify hypersonic vehicle trajectories},
+  year      = {2021},
+}
+
+@article{Kokoszka2017,
+  author    = {Piotr Kokoszka and Matthew Reimherr},
+  journal = {Chapman and Hall/{CRC}},
+  title     = {Introduction to Functional Data Analysis},
+  year      = {2017},
+}
+
+@Book{Ramsay2009,
+  author    = {James Ramsay and Giles Hooker and Spencer Graves},
+  publisher = {Springer New York},
+  title     = {Functional Data Analysis with R and {MATLAB}},
+  year      = {2009},
+}
+
+@article{Wang2016,
+  author    = {Jane-Ling Wang and Jeng-Min Chiou and Hans-Georg M\"{u}ller},
+  journal   = {Annual Review of Statistics and Its Application},
+  title     = {Functional Data Analysis},
+  year      = {2016},
+}
+
+@article{Darabi2020,
+  author    = {Nadiyeh Darabi and S. Mohammad E. Hosseini-Nasab},
+  journal   = {Statistics},
+  title     = {Projection-based classification for functional data},
+  year      = {2020},
+}
+
+@article{Vovk2021retrain,
+title = {Retrain or not retrain: Conformal test martingales for change-point detection},
+author = {Vladimir Vovk and Ivan Petej and Ilia Nouretdinov and Ernst Ahlberg and Lars Carlsson and Alex Gammerman},
+year = {2021},
+journal = {Proceedings of Machine Learning Research}
+}
+
+@article{Vovk2021protectedclassification,
+title = {Protected probabilistic classification},
+author = {Vladimir Vovk and Ivan Petej and Alex Gammerman},
+year = {2021},
+journal = {On-line Compression Modelling project (New Series), Working paper 35},
+url = {http://alrw.net}
+}
+
+@article{Vovk2021protectedregression,
+title = {Protected probabilistic regression},
+author = {Vladimir Vovk},
+year = {2021},
+journal = {On-line Compression Modelling project (New Series), Working paper 34},
+url = {http://alrw.net}
+}
+
+@article{vovk2021testonline,
+author = {Vladimir Vovk},
+journal = {On-line Compression Modelling project (New Series), Working paper 24},
+url = {http://alrw.net},
+title = {Testing randomness online},
+year = {2021}}
+
+@Book{glenn-vovk2019,
+author = {Glenn Shafer and Vladimir Vovk},
+publisher = {Wiley, Hoboken, NJ},
+title = {{Game-Theoretic Foundations for Probability and Finance}},
+year = {2019}
+}
+
+@Book{glenn-vovk2001,
+author = {Glenn Shafer and Vladimir Vovk},
+publisher = {John Wiley},
+title = {{Probability and Finance It's Only a Game!}},
+year = {2001}
+}
+
+@Book{hastie2009,
+author = {Trevor Hastie and Robert Tibshirani and Jerome Friedman},
+publisher = {Springer},
+title = {{The Elements of Statistical Learning. Data Mining, Inference, and Prediction}},
+year = {2009}
+}
+
+@Book{Witten2017,
+author = {Gareth James and Daniela Witten and Trevor Hastie and Robert Tibshirani},
+publisher = {Springer},
+title = {{An Introduction to Statistical Learning, with Applications in R}},
+year = {2017}
+}
+
+@Book{Efron2016,
+author = {Bradley Efron and Trevor Hastie},
+publisher = {Cambridge University Press},
+title = {{Computer Age Statistical Inference}},
+year = {2016}
+}
+
+@article{Tibshirani1996,
+author = {Robert Tibshirani},
+journal = {Journal of the Royal Statistical Society. Series B (Methodological)},
+title = {Regression Shrinkage and Selection via the Lasso},
+year = {1996}
+}
+
+@article{Tibshirani2015,
+author = {Robert Tibshirani},
+journal = {Breiman Invited lecture, NIPS},
+title = {Some Recent Advances in Post-selection inference},
+year = {2015},
+url = {https://tibshirani.su.domains/ftp/nips2015.pdf}
+}
+
+@article{Ioannidis2005,
+author = {John P. A. Ioannidis},
+journal = {{PLoS medicine}},
+title = {Why Most Published Research Findings Are False},
+year = {2005}
+}
+
+@article{Taylor2015,
+author = {Jonathan Taylor and Robert J. Tibshirani},
+journal = {{PNAS}},
+title = {Statistical learning and selective inference},
+year = {2015}
+}
+
+@article{vovk-pvalue2019,
+author = {Yuri Gurevich and Vladimir Vovk},
+journal = {Working paper 16},
+title = {Test statistics and p-values},
+year = {2019},
+url = {http://alrw.net/}
+}
+
+@Book{Herbert2001,
+author = {Herbert A. David},
+journal = {{ In Herbert A. David and Anthony W. F. Edwards, editors,} Annotated Readings in the History of Statistics,  Springer, New York},
+title = {First (?) occurrence of common terms in statistics and probability},
+year = {2001}
+}
+
+@article{Herbert1995,
+author = {Herbert A. David},
+journal = {American Statistician},
+title = {First (?) occurrence of common terms in statistics and probability},
+year = {1995}
+}
+
+@article{Herbert1998,
+author = {Herbert A. David},
+journal = {American Statistician},
+title = {First (?) occurrence of common terms in statistics and
+probability—a second list, with corrections},
+year = {1998}
+}
+
+@article{Wasserstein2016,
+author = {Ronald L. Wasserstein and Nicole A. Lazar},
+journal = {The American Statistician},
+title = {The ASA's statement on p-values: context, process, and purpose},
+year = {2016}
+}
+
+@article{Altman2017,
+author = {Naomi Altman and Martin Krzywinski},
+journal = {Nature Methods},
+title = {P values and the search for significance},
+year = {2017}
+}
+
+@article{Andrade2019,
+author = {Chittaranjan Andrade},
+journal = {Indian J Psychol Med},
+title = {The P value and statistical significance: Misunderstandings, explanations, challenges, and alternatives},
+year = {2019}
+}
+
+@article{Betensky2019,
+author = {Rebecca A. Betensky},
+journal = {The American Statistician},
+title = {The p-Value Requires Context, Not a Threshold},
+year = {2019}
+}
+
+@article{Lee2019,
+author = {Lee Kennedy-Shaffer},
+journal = {The American Statistician},
+title = {{Before p < 0.05 to Beyond p < 0.05: Using History to Contextualize p-Values and Significance Testing}},
+year = {2019}
+}
+
+@article{Ioannidis2019,
+author = {John P. A. Ioannidis},
+journal = {The American Statistician},
+title = {{What Have We (Not) Learnt from Millions of Scientific Papers with P Values?}},
+year = {2019}
+}
+
+@article{Shafer2020,
+author = {Glenn Shafer},
+journal = {Finance \& Risk Engineering Lecture},
+title = {{Let's replace p-values with betting outcomes!}},
+year = {2020}
+}
+
+@article{Shafer2018,
+author = {Glenn Shafer and Vladimir Vovk},
+journal = {{The Game-Theoretic Probability and Finance Project, Working paper 4}},
+title = {{The origins and legacy of Kolmogorov's Grundbegriffe}},
+year = {2018},
+url = {http://probabilityandfinance.com/articles/04.pdf}
+}
+
+@Book{shiryaev2016-1,
+author = {Albert N. Shiryaev},
+publisher = {Springer (Thired Edition)},
+title = {{Probability-1}},
+year = {2016}
+}
+
+@Book{shiryaev2016-2,
+author = {Albert N. Shiryaev},
+publisher = {Springer (Thired Edition)},
+title = {{Probability-2}},
+year = {2016}
+}
+
+@Book{capital2,
+author = {马克思},
+publisher = {人民出版社},
+title = {资本论 （第二卷）},
+year = {2004}
+}
+
+@Book{mmp-1953,
+author = {R. Courant and D. Hilbert},
+publisher = {Interscience Publishers},
+title = {{Methods of Mathematical Physics: Volume I}},
+year = {1953}
+}
+
+@Book{mmp-1962,
+author = {R. Courant and D. Hilbert},
+publisher = {Interscience Publishers},
+title = {{Methods of Mathematical Physics: Volume II}},
+year = {1962}
+}
+
+@Book{Ewald1996-1,
+author = {William Ewald},
+publisher = {Clarendon Press, Oxford},
+title = {{From Kant to Hilbert: A Source Book in the Foundations of Mathematics (Volume I)}},
+year = {1996}
+}
+
+@Book{Ewald1996-2,
+author = {William Ewald},
+publisher = {Clarendon Press, Oxford},
+title = {{From Kant to Hilbert: A Source Book in the Foundations of Mathematics (Volume II)}},
+year = {1996}
+}
+
+@article{Ville1936,
+author = {Jean Ville},
+journal = {{Comptes rendus des s\'e ances de l'Acad\'e mie des Sciences}},
+title = {{Sur la notion de collectif}},
+year = {1936}
+}
+
+@article{Breiman2001,
+author = {Leo Breiman},
+journal = {Statistical Science},
+title = {{Statistical Modeling: The Two Cultures}},
+year = {2001}
+}
+
+@article{Efron2020,
+author = {Bradley Efron},
+journal = {Journal of the American Statistical Association},
+title = {{Prediction, Estimation, and Attribution}},
+year = {2020}
+}
+
+@Book{Kullback1968,
+author = {Solomon Kullback},
+publisher = {Dover Publications, Garden City, New York},
+title = {{Information Theory and Statistics}},
+year = {1968}
+}
+
+@Inbook{Bienvenu2022,
+author={Bienvenu Laurent and Shafer Glenn and Shen Alexander},
+editor={Mazliak Laurent and Shafer Glenn},
+title={{Andrei Kolmogorov and Leonid Levin on Randomness}},
+bookTitle={{The Splendors and Miseries of Martingales: Their History from the Casino to Mathematics}},
+year={2022},
+publisher={Springer International Publishing},
+address={Cham},
+pages={405--414},
+}
+
+@article{Novikoff1962,
+author = {A. Novikoff},
+journal = {in {Proceedings of the Symposium on the Mathematical Theory of Automata} },
+title = {On convergence proofs on perceptrons},
+year = {1962}
+}
+
+@article{VanOyen2011,
+  year = {2011},
+  month = oct,
+  publisher = {Springer Science and Business Media {LLC}},
+  volume = {69},
+  number = {1},
+  author = {H Van Oyen and O Bruy{\`{e}}re},
+  title = {Words,  words,  words},
+  journal = {Archives of Public Health}
+}
+
+@article{Platt1999,
+author = {John Platt},
+journal = {Advances in Large Margin Classifiers},
+title = {Probabilistic outputs for support vector machines and comparisons to regularized likelihood methods},
+year = {1999}
+}
+%---------------------------------------------------------------------------%

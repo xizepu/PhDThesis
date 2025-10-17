@@ -1,0 +1,151 @@
+This is BibTeX, Version 0.99d (TeX Live 2023)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: ./Tmp/Thesis.aux
+The style file: Biblio/gbt7714-numerical.bst
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 150 items from 100.
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated singl_function (elt_size=4) to 100 items from 50.
+Reallocated field_info (elt_size=4) to 10544 items from 5000.
+Database file #1: Biblio/ref.bib
+Repeated entry---line 1185 of file Biblio/ref.bib
+ : @book{Hamann2018
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1192 of file Biblio/ref.bib
+ : @article{Chung2018
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1247 of file Biblio/ref.bib
+ : @proceedings{Brown2014
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1328 of file Biblio/ref.bib
+ : @book{Doob1984
+ :               ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1376 of file Biblio/ref.bib
+ : @article{Schranz2020
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1403 of file Biblio/ref.bib
+ : @article{Schranz2020
+ :                     ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1413 of file Biblio/ref.bib
+ : @book{Hamann2018
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1420 of file Biblio/ref.bib
+ : @article{Chung2018
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1431 of file Biblio/ref.bib
+ : @article{Vovk2003
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1439 of file Biblio/ref.bib
+ : @proceedings{Vovk2012
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1446 of file Biblio/ref.bib
+ : @article{Thomas2021
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1457 of file Biblio/ref.bib
+ : @article{Olaronke2020
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1546 of file Biblio/ref.bib
+ : @article{Vapnik2009
+ :                    ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1563 of file Biblio/ref.bib
+ : @article{vapniktalk2015
+ :                        ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1655 of file Biblio/ref.bib
+ : @book{Vineeth2019
+ :                  ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1662 of file Biblio/ref.bib
+ : @proceedings{Walker2014
+ :                        ,
+I'm skipping whatever remains of this entry
+I was expecting a `,' or a `}'---line 1708 of file Biblio/ref.bib
+ : 
+ : @article{Wang2021,
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring 2019Reconciling's extra "publisher" field
+--line 1741 of file Biblio/ref.bib
+Repeated entry---line 1786 of file Biblio/ref.bib
+ : @article{2003Universal
+ :                       ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1796 of file Biblio/ref.bib
+ : @article{Lei2015
+ :                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1806 of file Biblio/ref.bib
+ : @article{Saunders1999
+ :                      ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1867 of file Biblio/ref.bib
+ : @article{Lapin2014
+ :                   ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1877 of file Biblio/ref.bib
+ : @proceedings{Li2016
+ :                    ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in Vapnik-context-2021
+Warning--empty journal in Vapnik-deep-2018
+Warning--empty journal in vapnik2021-priviate-communication
+Warning--empty journal in vovk2021-priviate-communication
+Warning--empty journal in 2019Reconciling
+You've used 154 entries,
+            4948 wiz_defined-function locations,
+            1840 strings with 31460 characters,
+and the built_in function-call counts, 907123 in all, are:
+= -- 16000
+> -- 105386
+< -- 134231
++ -- 36786
+- -- 5247
+* -- 4862
+:= -- 124557
+add.period$ -- 480
+call.type$ -- 154
+change.case$ -- 300
+chr.to.int$ -- 33318
+cite$ -- 159
+duplicate$ -- 2969
+empty$ -- 8423
+format.name$ -- 3011
+if$ -- 237456
+int.to.chr$ -- 16
+int.to.str$ -- 155
+missing$ -- 0
+newline$ -- 804
+num.names$ -- 446
+pop$ -- 50685
+preamble$ -- 1
+purify$ -- 154
+quote$ -- 0
+skip$ -- 93128
+stack$ -- 0
+substring$ -- 40410
+swap$ -- 189
+text.length$ -- 1771
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 1640
+warning$ -- 5
+while$ -- 2342
+width$ -- 0
+write$ -- 2038
+(There were 22 error messages)
